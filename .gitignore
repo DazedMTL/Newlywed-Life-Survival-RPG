@@ -1,0 +1,22 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!*.yaml
+!Data/*
+!*.rb
+!.gitignore
+!README.md
+!game.ini
+
+# Images
+!map_guide.png_

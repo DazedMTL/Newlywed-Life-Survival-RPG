@@ -10701,8 +10701,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "道端",
-                                    "水中"
+                                    "Roadside",
+                                    "Underwater"
                                 ],
                                 1,
                                 0,
@@ -11489,8 +11489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "放屁小便",
-                                    "大便"
+                                    "Farting and peeing",
+                                    "Defecating"
                                 ],
                                 1,
                                 0,
@@ -13500,7 +13500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押し入れの奥にこんな部屋があったんだ…"
+                                "There was a room like this behind the closet..."
                             ]
                         },
                         {
@@ -13527,14 +13527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも…ずっと開けてなかったみたいだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空気が淀んで埃っぽいや…"
+                                "But... it seems like it hasn't been opened for a while, so the air is\nstagnant and dusty..."
                             ]
                         },
                         {
@@ -13552,14 +13545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓でも開ければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しは空気も良くなるかなぁ…"
+                                "Maybe if I open a window, the air will get a little better..."
                             ]
                         },
                         {

@@ -24376,14 +24376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…病院へ行く時って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも憂鬱な気分になるわ…"
+                                "Sigh... I always feel so gloomy when it's time to go to the\nhospital..."
                             ]
                         },
                         {
@@ -25313,14 +25306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼と病院へ通ってるんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか妊娠しなくて…"
+                                "I've been going to the hospital with him, but I just can't seem to get\npregnant..."
                             ]
                         },
                         {
@@ -25338,7 +25324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度不妊治療を受けようと思ってるんです"
+                                "I'm thinking of getting fertility treatment next time."
                             ]
                         },
                         {
@@ -26160,14 +26146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -26333,14 +26312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "病院の近くに住んでると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サイレンばっか聞かされてまいっちまうぜ…"
+                                "Living near the hospital means you end up hearing nothing but sirens\nall the time..."
                             ]
                         },
                         {
@@ -27919,8 +27891,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -28113,7 +28085,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -28338,8 +28310,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -28532,7 +28504,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -30095,14 +30067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふっ…足の指先が水虫で疼くぜ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "病院で塗り薬でも貰っておくか…"
+                                "Huff... My toes are throbbing with athlete's foot... Maybe I should\nget some ointment from the hospital..."
                             ]
                         },
                         {
@@ -30849,14 +30814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切れ痔の治療で病院に通ってるんだけど面倒ねぇ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ？どうして切れ痔になったのかって？"
+                                "I've been going to the hospital for fissure treatment, but it's such a\nhassle... Huh? Why did I get a fissure, you ask?"
                             ]
                         },
                         {
@@ -30874,14 +30832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだっ♪そんなの言わせないでよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしいわね♪"
+                                "No way♪ Don't make me say it, it's embarrassing♪"
                             ]
                         },
                         {

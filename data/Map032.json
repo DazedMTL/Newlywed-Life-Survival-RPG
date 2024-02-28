@@ -23271,14 +23271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガソリンスタンド？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならすぐそこにあるぜ？"
+                                "Gas station? It's just over there."
                             ]
                         },
                         {
@@ -25580,8 +25573,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "給油する",
-                                    "今はいい"
+                                    "Refuel",
+                                    "Not now"
                                 ],
                                 1,
                                 0,
@@ -26137,7 +26130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イラッシャーイ…"
+                                "Welcome..."
                             ]
                         },
                         {
@@ -26155,14 +26148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "車ノレッカーナラ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "千円イタダキマース…"
+                                "If it's a car tow... that'll be 1000 yen..."
                             ]
                         },
                         {
@@ -26170,8 +26156,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "レッカーを頼む(1000円)",
-                                    "今はいい…"
+                                    "Request a tow truck (1000 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 1,
@@ -26220,14 +26206,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "すみませんが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "車のレッカーをお願いできますか？"
+                                "Excuse me, could I request a car tow?"
                             ]
                         },
                         {
@@ -26254,7 +26233,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "少々オ待チクダサーイ…"
+                                "Please wait a moment..."
                             ]
                         },
                         {
@@ -26333,7 +26312,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マタドウゾー…"
+                                "What else can I do for you..."
                             ]
                         },
                         {
@@ -26361,7 +26340,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "金ガ足リナイヨー…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -26402,14 +26381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "車を置いた場所はわかってるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今はいいかな…"
+                                "I know where I left the car, so maybe it's fine for now..."
                             ]
                         },
                         {
@@ -26672,14 +26644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -26845,14 +26810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駅前の方が色々便利だよなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ引っ越しも考えるか…"
+                                "The area in front of the station is so much more convenient... Maybe\nit's about time to consider moving..."
                             ]
                         },
                         {
@@ -28476,14 +28434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…今日の仕事きつかったなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと帰って寝るかぁ…"
+                                "Sigh... Work was tough today... Maybe I should just head back and get\nsome sleep..."
                             ]
                         },
                         {
@@ -29236,8 +29187,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -29430,7 +29381,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -29655,8 +29606,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -29849,7 +29800,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -31083,14 +31034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東町ってガソリンスタンドしかないんだよなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コンビニでも建てば便利になるんだけどなぁ"
+                                "There's nothing but a gas station in Higashi Town... It'd be more\nconvenient if they built a convenience store or something."
                             ]
                         },
                         {
@@ -32146,14 +32090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ♪給油なら車に乗った状態で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "給油ラインまでお願いします♪"
+                                "Welcome♪ If you're here for fuel, please stay in your car and proceed\nto the fueling line♪"
                             ]
                         },
                         {
@@ -32171,7 +32108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "車のレッカーなら横に居る店長までどうぞ♪"
+                                "If you need a car tow, please go see the manager standing over there♪"
                             ]
                         },
                         {
@@ -32212,7 +32149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またお願いします～♪"
+                                "Thank you, please come again～♪"
                             ]
                         },
                         {

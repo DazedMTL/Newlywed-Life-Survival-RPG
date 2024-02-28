@@ -29076,7 +29076,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -34289,7 +34289,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under a Pedestrian Bridge"
                             ]
                         },
                         {
@@ -34865,7 +34865,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -35441,7 +35441,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -36017,7 +36017,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under a Pedestrian Bridge"
                             ]
                         },
                         {
@@ -36593,7 +36593,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -37169,7 +37169,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -37745,7 +37745,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under a Pedestrian Bridge"
                             ]
                         },
                         {
@@ -38321,7 +38321,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle Capable of Passing Under a Pedestrian Bridge"
                             ]
                         },
                         {
@@ -38897,7 +38897,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -39473,7 +39473,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under Pedestrian Bridges"
                             ]
                         },
                         {
@@ -40049,7 +40049,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "歩道橋の下を通れる特殊車"
+                                "Special Vehicle That Can Pass Under a Pedestrian Bridge"
                             ]
                         },
                         {
@@ -41605,14 +41605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "打ち合わせまで少し時間があるな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オコメダでコーヒーでも飲んでいくか♪"
+                                "I have some time before the meeting... Maybe I'll grab a coffee at\nOkomeda.♪"
                             ]
                         },
                         {
@@ -42359,14 +42352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国道は車が多いから道路を横切る時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けた方がいいよ"
+                                "There are a lot of cars on the national highway, so you should be\ncareful when crossing the road."
                             ]
                         },
                         {
@@ -45798,14 +45784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -45918,14 +45897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -46091,14 +46063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んもぉ！ゲボの買取ってどうしてあんなに安いのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれだけ売ったら１０万円はするはずよ！"
+                                "Ugh! Why is the buyback price for vomit so low?! After selling that\nmuch, it should be worth 100,000 yen!"
                             ]
                         },
                         {
@@ -46845,14 +46810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国道は車が多いから気を付けた方がいいぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違っても下を通ろうなんて考えるなよ"
+                                "Be careful on the national road since there's a lot of traffic. Don't\neven think about trying to pass underneath, alright?"
                             ]
                         },
                         {
@@ -47599,14 +47557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さてと…ゲボでレンタルしてきた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "団地妻２穴拡張工事…うへへ♪楽しみだぜ♪"
+                                "Well then... I rented \"Apartment Wife: Double Hole Expansion Project\"\nfrom Geb... hehe♪ Can't wait♪"
                             ]
                         },
                         {
@@ -47624,14 +47575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？二穴拡張工事！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌だなぁ…何かの聞き間違えじゃないですか？"
+                                "Eh!? Double hole expansion project!? No way... Could it be some kind\nof misunderstanding?"
                             ]
                         },
                         {
@@ -47649,7 +47593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国道の工事って事ですよ♪"
+                                "It's about the construction on the national road♪"
                             ]
                         },
                         {
@@ -49027,8 +48971,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -49221,7 +49165,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -49446,8 +49390,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "I'm good for now..."
                                 ],
                                 1,
                                 0,
@@ -49640,7 +49584,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -49865,8 +49809,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -50059,7 +50003,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -50284,8 +50228,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -50478,7 +50422,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -52269,14 +52213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっべ…弁当買ってくるように言われて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちの方まで来ちまったけど…"
+                                "Shoot... I was told to buy some bento boxes and ended up coming this\nway, but..."
                             ]
                         },
                         {
@@ -52294,7 +52231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡の国道ってコンビニが無いんだよな…"
+                                "There are no convenience stores on the Neko-oka highway, huh..."
                             ]
                         },
                         {
@@ -53041,14 +52978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡の歩道橋は車の通りが激しいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "点検するのが大変なんだよなぁ…"
+                                "The pedestrian bridge in Neko-oka is so hard to inspect because of the\nheavy traffic..."
                             ]
                         },
                         {

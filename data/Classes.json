@@ -92,7 +92,7 @@
                 "skillId": 178
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "",
         "params": [
             [
@@ -1030,7 +1030,7 @@
                 "skillId": 189
             }
         ],
-        "name": "魔法使い",
+        "name": "Wizard",
         "note": "",
         "params": [
             [
@@ -2003,7 +2003,7 @@
                 "skillId": 145
             }
         ],
-        "name": "僧侶",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -2941,7 +2941,7 @@
                 "skillId": 203
             }
         ],
-        "name": "騎士",
+        "name": "Knight",
         "note": "",
         "params": [
             [
@@ -3864,7 +3864,7 @@
                 "skillId": 219
             }
         ],
-        "name": "格闘家",
+        "name": "Martial Artist",
         "note": "",
         "params": [
             [
@@ -4827,7 +4827,7 @@
                 "skillId": 109
             }
         ],
-        "name": "魔法剣士",
+        "name": "Spellblade",
         "note": "",
         "params": [
             [
@@ -5735,7 +5735,7 @@
                 "skillId": 229
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -6648,7 +6648,7 @@
                 "skillId": 210
             }
         ],
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             [
@@ -12753,7 +12753,7 @@
                 "note": ""
             }
         ],
-        "name": "一般女性",
+        "name": "Common Woman",
         "note": "",
         "params": [
             [

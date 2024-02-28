@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リード",
+        "name": "Lead",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "小野寺桃音",
+        "name": "Nodera Momone",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -455,7 +455,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "同行者0(空)",
+        "name": "Companion 0 (Empty)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -478,7 +478,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "同行者1(小野寺卓也)",
+        "name": "Companion 1 (Nodera Takuya)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -501,7 +501,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "同行者2(水島朱音)",
+        "name": "Companion 2 (Mizushima Akane)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -524,7 +524,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "同行者3",
+        "name": "Companion 3",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -547,7 +547,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "同行者4",
+        "name": "Companion 4",
         "nickname": "",
         "note": "",
         "profile": ""

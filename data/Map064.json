@@ -21814,7 +21814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでお部屋を取れるんだ…"
+                                "With this, I can rent a room..."
                             ]
                         },
                         {
@@ -21822,8 +21822,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "部屋を取る(５０００円)",
-                                    "今はいい…"
+                                    "Book a room (5000 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -21881,14 +21881,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "たっくん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お部屋取っちゃおっか♪"
+                                "Takkun♪ Should we go ahead and rent a room♪"
                             ]
                         },
                         {
@@ -21906,7 +21899,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "たまにはいいかもね♪"
+                                "It might be nice for a change♪"
                             ]
                         },
                         {
@@ -21924,14 +21917,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うふふっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "でしょ♪"
+                                "Ufufu♪ Right?♪"
                             ]
                         },
                         {
@@ -21949,7 +21935,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "左側の部屋が空いてるみたいだね♪"
+                                "Looks like the room on the left is available♪"
                             ]
                         },
                         {
@@ -22016,14 +22002,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…って！私ったら何してるのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "一人でお部屋を借りようなんて！"
+                                "...Wait! What am I doing?! Thinking about renting a room all by\nmyself!"
                             ]
                         },
                         {
@@ -22082,14 +22061,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…と思ったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お金が足りないや"
+                                "...But then I realized I don't have enough money"
                             ]
                         },
                         {
@@ -22130,14 +22102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一人でお部屋を借りても意味無いし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はいいかな…"
+                                "Renting a room alone wouldn't make sense anyway... Maybe it's not such\na good idea right now..."
                             ]
                         },
                         {
@@ -22233,7 +22198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たっくんが居なきゃ面白くないよね…"
+                                "It's not fun without Takkun, right..."
                             ]
                         },
                         {
@@ -22311,7 +22276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左側の部屋へ行こう♪"
+                                "Let's go to the room on the left♪"
                             ]
                         },
                         {
@@ -24453,7 +24418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵が掛かってるみたい…"
+                                "It seems to be locked..."
                             ]
                         },
                         {
@@ -24483,7 +24448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "って当然だよね…"
+                                "...which is to be expected, right..."
                             ]
                         },
                         {
@@ -25033,7 +24998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちのお部屋は誰かが借りてるみたい…"
+                                "It seems like someone is renting this room..."
                             ]
                         },
                         {
@@ -25402,8 +25367,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この場で愛し合う…",
-                                    "今はいい…"
+                                    "Make love right here...",
+                                    "Not now..."
                                 ],
                                 -2,
                                 0,
@@ -25434,7 +25399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "た～っくん♪"
+                                "Tak-kun♪"
                             ]
                         },
                         {
@@ -25452,7 +25417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだい？"
+                                "What is it?"
                             ]
                         },
                         {
@@ -25470,7 +25435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "んんぅ♪"
+                                "Mmm♪"
                             ]
                         },
                         {
@@ -25488,7 +25453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "んっ？"
+                                "Hmm?"
                             ]
                         },
                         {
@@ -25506,7 +25471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しよ～♪"
+                                "Let's do it♪"
                             ]
                         },
                         {
@@ -25524,14 +25489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何をするんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハッキリ言ってくれなきゃわからないよ♪"
+                                "What do you want to do? You have to tell me clearly or I won't know♪"
                             ]
                         },
                         {
@@ -25549,14 +25507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレに決まってるよぉ！！"
+                                "Mmm!! It's that, of course!!"
                             ]
                         },
                         {
@@ -25574,14 +25525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アレ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレって？"
+                                "That? What do you mean by that?"
                             ]
                         },
                         {
@@ -25599,7 +25543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "赤ちゃん～♪"
+                                "Baby-making～♪"
                             ]
                         },
                         {
@@ -25617,7 +25561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…♪"
+                                "Ah...♪"
                             ]
                         },
                         {
@@ -25635,14 +25579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それなら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうして貰いたいか言ってごらん♪"
+                                "Then... tell me how you want it♪"
                             ]
                         },
                         {
@@ -25660,14 +25597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "むぅ～！そ…そんな事…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恥ずかしくて言えないよぉ…"
+                                "Muu~! Th... that kind of thing... it's too embarrassing to say..."
                             ]
                         },
                         {
@@ -25685,14 +25615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それじゃぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "桃音のお願いはお預けかなぁ～"
+                                "If that's the case～ Momone's request will have to wait, huh～"
                             ]
                         },
                         {
@@ -25710,7 +25633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええっ！？"
+                                "Eh!? What!?"
                             ]
                         },
                         {
@@ -25728,14 +25651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "言うよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言うからお預けなんて言わないで！"
+                                "I'll say it! I'll say it, so don't talk about waiting!"
                             ]
                         },
                         {
@@ -25753,7 +25669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうして欲しいか言ってみて♪"
+                                "Tell me how you want it♪"
                             ]
                         },
                         {
@@ -25771,14 +25687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わ…私のおマンコに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たっくんのおチンチンを入れてください…"
+                                "Pl... Please put your cock inside my pussy..."
                             ]
                         },
                         {
@@ -25796,14 +25705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おチンチンが欲しいなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "桃音はエッチなお嫁さんだなぁ♪"
+                                "Wanting a cock... Momone, you're such a naughty bride♪"
                             ]
                         },
                         {
@@ -25821,14 +25723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たっくんが言わせたんでしょ！"
+                                "Ahhhn! It's because Tak-kun made me say it!"
                             ]
                         },
                         {
@@ -25846,14 +25741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふっ♪冗談だよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よく言えました♪"
+                                "Fufu♪ Just kidding♪ You said it well♪"
                             ]
                         },
                         {
@@ -25871,14 +25759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それじゃぁ…ちゃんと言えたご褒美に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は後ろから入れてあげる♪"
+                                "Well then... as a reward for saying it properly, today I'll enter from\nbehind♪"
                             ]
                         },
                         {
@@ -25896,7 +25777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きゃっ！"
+                                "Kyah!"
                             ]
                         },
                         {
@@ -25954,7 +25835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだこの雰囲気を楽しみたいなぁ♪"
+                                "I still want to enjoy this mood a bit longer♪"
                             ]
                         },
                         {
@@ -26036,8 +25917,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この場で愛し合う…",
-                                    "今はいい…"
+                                    "Make love right here...",
+                                    "Not now..."
                                 ],
                                 -2,
                                 0,
@@ -26116,7 +25997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだこの雰囲気を楽しみたいなぁ♪"
+                                "I still want to enjoy this atmosphere♪"
                             ]
                         },
                         {
@@ -27592,7 +27473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -27679,7 +27560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -27766,7 +27647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -27853,7 +27734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -27940,7 +27821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28027,7 +27908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28114,7 +27995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28201,7 +28082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28288,7 +28169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28375,7 +28256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちに進んでも何も無いし引き返そう…"
+                                "There's nothing this way either, let's turn back..."
                             ]
                         },
                         {
@@ -28506,14 +28387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいモノ揃ってますよ♪"
+                                "Welcome♪ We have a fine selection of items♪"
                             ]
                         },
                         {
@@ -28574,7 +28448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またどうぞ～♪"
+                                "Please come again～♪"
                             ]
                         },
                         {
@@ -28782,7 +28656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ恥民堂へ…"
+                                "Welcome to the Hall of Shame..."
                             ]
                         },
                         {
@@ -28800,14 +28674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥民堂では邪気を払い運気を上げる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸運の壺を販売しております…"
+                                "Here at the Hall of Shame, we sell lucky pots that ward off evil\nspirits and raise your fortune..."
                             ]
                         },
                         {
@@ -28834,14 +28701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺っ！最高！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壺！サイコー！！"
+                                "Pots! The best! Pots! Awesome!!"
                             ]
                         },
                         {
@@ -28859,7 +28719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方も壺最高と唱えなさい！"
+                                "You too must chant 'pots are the best'!"
                             ]
                         },
                         {
@@ -28877,14 +28737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すみません…壺には興味ないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう帰りますね…お邪魔しました…"
+                                "I'm sorry... I'm not interested in pots, so I'll be leaving now...\nThank you for having me..."
                             ]
                         },
                         {
@@ -28911,7 +28764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待ちなさい！！"
+                                "Wait a moment!!"
                             ]
                         },
                         {
@@ -28929,14 +28782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所へ訪れた事は運命…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはつまり貴方も壺仲間ということ…"
+                                "Coming to this place was fate... That means you are also a comrade of\nthe pot..."
                             ]
                         },
                         {
@@ -28954,14 +28800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壺信者と言っても過言ではありません！"
+                                "No! It wouldn't be an exaggeration to call me a pot believer!"
                             ]
                         },
                         {
@@ -28979,14 +28818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ…私は偶然訪ねただけで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にたまたまで…"
+                                "Ah... I just happened to visit by chance... really, just by chance..."
                             ]
                         },
                         {
@@ -29004,14 +28836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自らを卑下して恥じる事はありません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場では皆平等なのです！"
+                                "There's no need to belittle yourself or feel ashamed! Here, everyone\nis equal!"
                             ]
                         },
                         {
@@ -29029,21 +28854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "信者の方はあらゆる選択肢を排除せず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張感をもってこの壺を買う事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "検討しなければならないのです！！"
+                                "As a believer, you must consider buying this pot with all options open\nand with a sense of urgency!!"
                             ]
                         },
                         {
@@ -29061,14 +28872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなんですか…"
+                                "Ah... Is that so..."
                             ]
                         },
                         {
@@ -29086,14 +28890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なに言ってるんだろう…"
+                                "This person... what are they talking about..."
                             ]
                         },
                         {
@@ -29123,14 +28920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も…もしかして…"
+                                "Ha!! Maybe... maybe..."
                             ]
                         },
                         {
@@ -29148,14 +28938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺が好き過ぎて壺しか友達が居ない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可哀想なおじさんなのかも！"
+                                "This poor man might love pots so much that he has no friends other\nthan pots!"
                             ]
                         },
                         {
@@ -29173,14 +28956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うんうん…きっとそうだよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうじゃなきゃこんな変な事言わないもんね…"
+                                "Yeah, yeah... That must be it... Otherwise, he wouldn't say such\nstrange things..."
                             ]
                         },
                         {
@@ -29210,21 +28986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな可愛そうな人を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放って置く事なんてできないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと優しくしてあげなきゃ！"
+                                "I can't just leave such a pitiful person alone! I have to be kinder to\nhim!"
                             ]
                         },
                         {
@@ -29242,21 +29004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ…貴方がこの壺を購入する事こそが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "苦しみの無い平等な世界を作る一歩…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礎となるのです…"
+                                "Now... Your purchase of this pot is the first step towards creating a\nworld without suffering, a cornerstone..."
                             ]
                         },
                         {
@@ -29332,14 +29080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…感謝いたします…貴方の行った善行は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恥民堂に後世まで語り継がれる事でしょう…"
+                                "Ah... I am grateful... Your good deed will surely be passed down\nthrough the generations at the Hall of Shame..."
                             ]
                         },
                         {
@@ -29367,7 +29108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺のご加護があらんことを…"
+                                "May the blessing of the pot be with you..."
                             ]
                         },
                         {
@@ -29505,7 +29246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ恥民堂へ…"
+                                "Welcome to the Hall of Shame..."
                             ]
                         },
                         {
@@ -29581,14 +29322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…感謝いたします…貴方の行った善行は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恥民堂に後世まで語り継がれる事でしょう…"
+                                "Ah... Thank you... Your good deeds will surely be passed down through\nthe generations in the Hall of Shame..."
                             ]
                         },
                         {
@@ -29616,7 +29350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺のご加護があらんことを…"
+                                "May the protection of the pot be with you..."
                             ]
                         },
                         {

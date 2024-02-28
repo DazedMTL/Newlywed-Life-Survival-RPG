@@ -19452,7 +19452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "倉庫での力仕事も慣れちまえば悪くねぇもんさ♪"
+                                "Once you get used to the physical labor in the warehouse, it's not so\nbad♪"
                             ]
                         },
                         {
@@ -20274,14 +20274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -20447,14 +20440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと終わんねぇかなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く酒が飲みてぇぜ…"
+                                "Wish this would end already... I wanna drink some booze fast..."
                             ]
                         },
                         {
@@ -21201,14 +21187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "給料に釣られて工場に就職してみたんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたより稼げないし辛いなぁ…"
+                                "I took a job at the factory because of the salary, but it's not paying\nas much as I thought and it's tough..."
                             ]
                         },
                         {
@@ -21226,7 +21205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと辞めて他へ行こうかな…"
+                                "Maybe I should quit quickly and go somewhere else..."
                             ]
                         },
                         {
@@ -25068,8 +25047,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -25262,7 +25241,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {

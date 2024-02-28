@@ -10780,14 +10780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "運転はゆとりをもって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全運転で行かなきゃだよね♪"
+                                "We must drive with ease and ensure safe driving, right?♪"
                             ]
                         },
                         {
@@ -10805,7 +10798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左かくに～ん…"
+                                "Turning left~..."
                             ]
                         },
                         {
@@ -10823,7 +10816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "右かくに～ん…"
+                                "Turning right~..."
                             ]
                         },
                         {
@@ -10841,7 +10834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出発しんこ～う♪"
+                                "Departing now~♪"
                             ]
                         },
                         {

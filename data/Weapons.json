@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "【剣】軽くて扱いやすい刀身の短い剣。",
+        "description": "[Sword] A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 0,
-        "description": "信用ある者のみが持つことを許される社内用の印鑑だ…\n使用するたびに４％の疲労が軽減される",
+        "description": "A company seal allowed only for those who are trusted... Reduces\nfatigue by 4% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -315,7 +315,7 @@
             }
         ],
         "iconIndex": 259,
-        "name": "高級印鑑",
+        "name": "Luxury Seal",
         "note": "",
         "params": [
             0,
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 0,
-        "description": "仕事の出来る者に支給される社内用の印鑑だ…\n使用するたびに３％の疲労が軽減される",
+        "description": "A company seal issued to capable workers... Reduces fatigue by 3% with\neach use.",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +348,7 @@
             }
         ],
         "iconIndex": 258,
-        "name": "新しい印鑑",
+        "name": "New Seal",
         "note": "",
         "params": [
             0,
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 0,
-        "description": "所々汚れているが比較的新しい社内用の印鑑だ…\n使用するたびに２％の疲労が軽減される",
+        "description": "A relatively new company seal, though it's somewhat dirty... Reduces\nfatigue by 2% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -381,7 +381,7 @@
             }
         ],
         "iconIndex": 257,
-        "name": "普通の印鑑",
+        "name": "Ordinary Seal",
         "note": "",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 0,
-        "description": "長年使用され朱肉が乾いた社内用の印鑑だ…\n使用するたびに１％の疲労が軽減される",
+        "description": "A long-used company seal with dried ink... Reduces fatigue by 1% with\neach use.",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +414,7 @@
             }
         ],
         "iconIndex": 256,
-        "name": "使い古しの印鑑",
+        "name": "Worn-Out Seal",
         "note": "",
         "params": [
             0,
@@ -630,7 +630,7 @@
     {
         "id": 20,
         "animationId": 0,
-        "description": "押印ミス防止に特化したマットだ…\n使用するたびに１％の疲労が軽減される",
+        "description": "A mat specialized in preventing stamping errors... Reduces fatigue by\n1% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -645,7 +645,7 @@
             }
         ],
         "iconIndex": 275,
-        "name": "印鑑マット",
+        "name": "Seal Mat",
         "note": "",
         "params": [
             0,

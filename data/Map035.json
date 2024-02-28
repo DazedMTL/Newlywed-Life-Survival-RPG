@@ -20366,14 +20366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱ仕事サボるなら公園だよなぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと…携帯切っておかねぇと♪"
+                                "If you're going to skip work, the park is definitely the place to be♪\nOops... I better turn off my cell phone♪"
                             ]
                         },
                         {
@@ -21195,14 +21188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -21324,14 +21310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アナタっ！アタチという女が居ながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別の女と付き合ってたの！？"
+                                "You! How could you date another woman when you have me?"
                             ]
                         },
                         {
@@ -21349,14 +21328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち…ちがうよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子はただの友達で…そういう仲じゃ…"
+                                "No... that's not it! This girl is just a friend, we're not in that\nkind of relationship..."
                             ]
                         },
                         {
@@ -21374,14 +21346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう許さないんだからぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子と一緒にこんな家出て行ってやるぅ！！"
+                                "I won't forgive you! I'm going to leave this house and go with this\ngirl!!"
                             ]
                         },
                         {
@@ -21399,14 +21364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何やってるのかって？"
+                                "Huh? What am I doing?"
                             ]
                         },
                         {
@@ -21424,14 +21382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アタチたち三年目の離婚夫婦ごっこちてるんだ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんもやる？"
+                                "We're playing pretend as a couple that's been divorced for three\nyears~♪ Wanna join in, big sis?"
                             ]
                         },
                         {
@@ -21722,14 +21673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きぃぃ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシの方が凄いんだからぁ！！"
+                                "Kyiii!! I'm the amazing one here!!"
                             ]
                         },
                         {
@@ -21747,14 +21691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キミの努力は認めるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだボクの方が上だね！！"
+                                "I acknowledge your effort, but I'm still way better!!"
                             ]
                         },
                         {
@@ -22045,14 +21982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アタチは猫岡連合一番隊隊長の奈津子！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このアタチに乗りこなせない三輪車なんてないのよぉ！"
+                                "I'm Natsuko, the leader of the Neko-oka Alliance's first squad!\nThere's no tricycle that I can't ride!"
                             ]
                         },
                         {
@@ -22387,7 +22317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くに公園があると癒されるよね♪"
+                                "Having a park nearby is so soothing, isn't it?♪"
                             ]
                         },
                         {
@@ -22405,14 +22335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡記念公園みたいな大きな公園もいいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さな公園の方が落ち着くよ♪"
+                                "Big parks like Neko-oka Memorial Park are nice, but smaller parks feel\nmore relaxing.♪"
                             ]
                         },
                         {
@@ -23366,8 +23289,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "コーヒーを購入する(１８０円)",
-                                    "今はいい…"
+                                    "Buy coffee (180 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -23560,7 +23483,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -23957,7 +23880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方も公園に来たんでしょ？"
+                                "You came to the park too, didn't you?"
                             ]
                         },
                         {
@@ -23975,14 +23898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "十三公園って名前だけど近くに住んでる人からは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三角公園って呼ばれてるのよ♪"
+                                "It's called Jusou Park, but the locals call it Triangle Park.♪"
                             ]
                         },
                         {
@@ -24735,8 +24651,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -24929,7 +24845,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -25241,14 +25157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり戸締りされてるみたい"
+                                "Alright... it seems to be locked up tight."
                             ]
                         },
                         {

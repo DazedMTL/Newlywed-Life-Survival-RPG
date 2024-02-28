@@ -6885,7 +6885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "車は会社の前に置いちゃっていいよね…"
+                                "I can leave the car in front of the company, right..."
                             ]
                         },
                         {
@@ -6903,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またすぐ使うだろうし…"
+                                "I'll probably use it again soon anyway..."
                             ]
                         },
                         {
@@ -6966,14 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…遅刻したら怒られちゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急がなきゃ！"
+                                "Oops... I'll get scolded if I'm late! I need to hurry!"
                             ]
                         },
                         {

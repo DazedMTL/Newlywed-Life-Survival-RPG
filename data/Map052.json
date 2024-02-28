@@ -32672,7 +32672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "晩御飯のおかずを買うなら猫岡商店街よね～♪"
+                                "If we're buying dinner side dishes, we should go to Neko-oka Shopping\nStreet, right?♪"
                             ]
                         },
                         {
@@ -33627,14 +33627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡商店街に来たついでだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店にでも寄って行こうかな♪"
+                                "I'm already here at Neko-oka Shopping District, maybe I'll stop by\nsome shops♪"
                             ]
                         },
                         {
@@ -35750,14 +35743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -35929,8 +35915,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -36123,7 +36109,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -36348,8 +36334,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -36542,7 +36528,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -36767,8 +36753,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "コーヒーを購入する(１８０円)",
-                                    "今はいい…"
+                                    "Buy coffee (180 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -36961,7 +36947,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -37186,8 +37172,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -37380,7 +37366,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -39187,14 +39173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取引先はこのあたりなんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所間違えたかなぁ…"
+                                "The client should be around here... Did I get the place wrong, I\nwonder..."
                             ]
                         },
                         {

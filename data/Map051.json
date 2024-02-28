@@ -43622,14 +43622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡駅からは犬山駅へ行けるんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用する人は少ないみたいだね…"
+                                "It seems that not many people use the train from Neko-oka Station to\nInuyama Station..."
                             ]
                         },
                         {
@@ -44451,14 +44444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -44624,14 +44610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺の名はルーピー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれフィリピンパブで大統領になる男さ…"
+                                "My name is Rudy... The man who will one day become the president of a\nFilipino pub..."
                             ]
                         },
                         {
@@ -44649,7 +44628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大統領に俺はなるっ！！"
+                                "I will become the president!!"
                             ]
                         },
                         {
@@ -45597,14 +45576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ったく…遅せぇなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何時間待たせる気だよ…"
+                                "Sheesh... you're so late... How many hours were you planning to make\nme wait..."
                             ]
                         },
                         {
@@ -46351,14 +46323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駅前のコンビニは品物が揃ってるから便利だよね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くを通るとついつい寄っちゃうよ♪"
+                                "The convenience store in front of the station is so handy because it's\nwell-stocked, isn't it? ♪ I can't help but stop by whenever I pass\nnearby. ♪"
                             ]
                         },
                         {
@@ -47052,14 +47017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…電車に乗るなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切符を買わなきゃだよね…"
+                                "Oops... If I'm taking the train, I need to buy a ticket..."
                             ]
                         },
                         {
@@ -48103,8 +48061,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "切符を購入する(４８０円)",
-                                    "今はいい…"
+                                    "Buy a ticket (480 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -48245,7 +48203,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "電車に乗る必要は無いかなぁ…"
+                                "I wonder if there's no need to take the train..."
                             ]
                         },
                         {
@@ -48331,7 +48289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りないや…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -48429,14 +48387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…電車に乗るなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切符を買わなきゃだよね…"
+                                "Oops... If I'm taking the train, I need to buy a ticket..."
                             ]
                         },
                         {
@@ -49421,14 +49372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…電車に乗るなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切符を買わなきゃだよね…"
+                                "Oops... If I'm taking the train, I need to buy a ticket..."
                             ]
                         },
                         {
@@ -50413,14 +50357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電車に乗るなら切符を買って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反対側の改札から乗ろう…"
+                                "If we're taking the train, let's buy a ticket and board from the gate\non the opposite side..."
                             ]
                         },
                         {
@@ -50926,7 +50863,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "電車に乗るなら反対側の改札から乗ろう…"
+                                "If we're taking the train, let's board from the gate on the opposite\nside..."
                             ]
                         },
                         {
@@ -51024,14 +50961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電車に乗るなら切符を買って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反対側の改札から乗ろう…"
+                                "If we're taking the train, let's buy a ticket and board from the gate\non the opposite side..."
                             ]
                         },
                         {
@@ -51537,7 +51467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "電車に乗るなら反対側の改札から乗ろう…"
+                                "If we're taking the train, let's board from the ticket gate on the\nopposite side..."
                             ]
                         },
                         {
@@ -51635,14 +51565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電車に乗るなら切符を買って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反対側の改札から乗ろう…"
+                                "If you're taking the train, buy a ticket and board from the gate on\nthe opposite side..."
                             ]
                         },
                         {
@@ -52148,7 +52071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "電車に乗るなら反対側の改札から乗ろう…"
+                                "If we're taking the train, let's board from the gate on the opposite\nside..."
                             ]
                         },
                         {
@@ -52305,8 +52228,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "切符を購入する(４８０円)",
-                                    "今はいい…"
+                                    "Buy a ticket (480 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -52447,7 +52370,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "電車に乗る必要は無いかなぁ…"
+                                "I wonder if there's no need to take the train..."
                             ]
                         },
                         {
@@ -52533,7 +52456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りないや…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -52690,8 +52613,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "切符を購入する(４８０円)",
-                                    "今はいい…"
+                                    "Buy a ticket (480 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -52832,7 +52755,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "電車に乗る必要は無いかなぁ…"
+                                "I guess there's no need to take the train..."
                             ]
                         },
                         {
@@ -52918,7 +52841,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りないや…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -53284,14 +53207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -53299,8 +53215,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "切符を無くした…",
-                                    "今はいい…"
+                                    "I lost the ticket...",
+                                    "It's fine for now..."
                                 ],
                                 1,
                                 0,
@@ -53340,14 +53256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ？切符を無くしたって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そりゃまいったなぁ…"
+                                "Eh? You lost your ticket? That's quite a problem..."
                             ]
                         },
                         {
@@ -53365,14 +53274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "駅の外へは出してあげるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一応チェックさせてもらいますよ？"
+                                "I'll let you out of the station, but I need to check first, okay?"
                             ]
                         },
                         {
@@ -53425,7 +53327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "切符は持ってるし改札から出よう…"
+                                "I have my ticket, so let's go through the ticket gate..."
                             ]
                         },
                         {
@@ -53504,14 +53406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -53589,14 +53484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -53604,8 +53492,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "切符を無くした…",
-                                    "今はいい…"
+                                    "I lost the ticket...",
+                                    "It's fine for now..."
                                 ],
                                 1,
                                 0,
@@ -53645,14 +53533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ？切符を無くしたって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そりゃまいったなぁ…"
+                                "Huh? You lost your ticket? That's quite a problem..."
                             ]
                         },
                         {
@@ -53670,14 +53551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "駅の外へは出してあげるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一応チェックさせてもらいますよ？"
+                                "I'll let you out of the station, but I need to check first, okay?"
                             ]
                         },
                         {
@@ -53730,7 +53604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "切符は持ってるし改札から出よう…"
+                                "I have my ticket, so let's go through the ticket gate..."
                             ]
                         },
                         {
@@ -53809,14 +53683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -53953,8 +53820,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -54147,7 +54014,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -54372,8 +54239,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -54566,7 +54433,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so I guess I'm good..."
                             ]
                         },
                         {
@@ -54791,8 +54658,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -54985,7 +54852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -55210,8 +55077,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "I'm good for now..."
                                 ],
                                 1,
                                 0,
@@ -55404,7 +55271,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -55629,8 +55496,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -55823,7 +55690,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -56048,8 +55915,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "I'm good for now..."
                                 ],
                                 1,
                                 0,
@@ -56242,7 +56109,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -56467,8 +56334,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "コーヒーを購入する(１８０円)",
-                                    "今はいい…"
+                                    "Buy coffee (180 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -56661,7 +56528,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -56886,8 +56753,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お茶を購入する(１６０円)",
-                                    "今はいい…"
+                                    "Buy tea (160 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -57080,7 +56947,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -62360,14 +62227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このあたりで工事の予定が入ってるはずなんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこだったかなぁ…"
+                                "There's supposed to be some construction planned around here, but\nwhere was it again..."
                             ]
                         },
                         {
@@ -63114,14 +62974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのラーメン屋さんで食べると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やたらトイレに行きたくなるのよね…"
+                                "Every time I eat at this ramen shop, I suddenly feel the need to go to\nthe bathroom..."
                             ]
                         },
                         {
@@ -63868,14 +63721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイツ遅いなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ面接に遅刻しちまうよ…"
+                                "They're so late... At this rate, I'm going to be late for the\ninterview..."
                             ]
                         },
                         {
@@ -65292,14 +65138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駅のホームで待ち合わせしてたんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツなかなか来ないなぁ…"
+                                "I was waiting for them at the station platform, but they're taking\nquite a while to show up..."
                             ]
                         },
                         {

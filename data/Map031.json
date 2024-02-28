@@ -19670,14 +19670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性交マートにはもう行った？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名前は卑猥だけど品揃えは悪くないわよ♪"
+                                "Have you already been to the Sex Mart? The name is lewd, but they have\na pretty good selection♪"
                             ]
                         },
                         {
@@ -20941,8 +20934,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "給油する",
-                                    "今はいい"
+                                    "Refuel",
+                                    "Not now"
                                 ],
                                 1,
                                 0,
@@ -22011,14 +22004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "車の燃料がなくなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガソリンスタンドへ行った方がいいよ"
+                                "If you run out of fuel in the car, you should go to a gas station."
                             ]
                         },
                         {
@@ -22765,14 +22751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクたち猫岡市に引っ越そうと思って♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今二人で物件を探し中なんです♪"
+                                "We're thinking of moving to Neko-oka City♪ Right now, we're looking\nfor a place together♪"
                             ]
                         },
                         {
@@ -24792,14 +24771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫岡駅ってもっと東の方だったかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ…このままじゃ打ち合わせに遅刻しちまう…"
+                                "I wonder if Neko-oka Station was further east... *sigh*... At this\nrate, I'm going to be late for the meeting..."
                             ]
                         },
                         {
@@ -28202,7 +28174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イラッシャイ…"
+                                "Welcome..."
                             ]
                         },
                         {
@@ -28220,14 +28192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "車ノレッカーナラ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "千円イタダキマス…"
+                                "If it's a car tow... that'll be 1000 yen..."
                             ]
                         },
                         {
@@ -28235,8 +28200,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "レッカーを頼む(1000円)",
-                                    "今はいい…"
+                                    "Request a tow truck (1000 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 1,
@@ -28285,14 +28250,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "すみませんが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "車のレッカーをお願いできますか？"
+                                "Excuse me, could I request a car tow?"
                             ]
                         },
                         {
@@ -28319,7 +28277,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カシコマリマシタ…"
+                                "Certainly..."
                             ]
                         },
                         {
@@ -28398,7 +28356,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マタドウゾ…"
+                                "Please come again..."
                             ]
                         },
                         {
@@ -28426,7 +28384,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "金ガ足リマセンヨ…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -28467,14 +28425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "車を置いた場所はわかってるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今はいいかな…"
+                                "I know where I left the car, so maybe it's okay for now..."
                             ]
                         },
                         {
@@ -29013,8 +28964,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "I'm good for now..."
                                 ],
                                 1,
                                 0,
@@ -29207,7 +29158,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -31383,14 +31334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いい？お腹が痛くなった時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トイレに入ってもすぐに出ちゃ駄目よ！"
+                                "Okay? When your stomach hurts, you can't just go to the toilet and\ncome right out!"
                             ]
                         },
                         {
@@ -31408,14 +31352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焦る心を静めて…肛門に一点集中！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てを出し切らなきゃ治るものも治らないわ！"
+                                "Calm your anxious heart... Focus on your anus! You have to let it all\nout, or you won't get better!"
                             ]
                         },
                         {
@@ -32162,14 +32099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜中に出歩くなら気を付けた方がいいわよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近は変態が多いって言うから…"
+                                "If you're going to walk around at night, you should be careful. They\nsay there are a lot of perverts around lately..."
                             ]
                         },
                         {
@@ -32916,7 +32846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く弁当買って帰らねぇと親方に怒られちまう！"
+                                "I gotta hurry up and buy lunch or the boss is gonna chew me out!"
                             ]
                         },
                         {
@@ -34288,14 +34218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事は夕方でだいたい終わりだよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミの会社もそうだろ？"
+                                "I usually finish work in the evening. Your company is the same, right?"
                             ]
                         },
                         {
@@ -34989,14 +34912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -37448,14 +37364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このあたりは商店が少ないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住むには丁度いい場所だよね♪"
+                                "This area might not have many shops, but it's just the right place to\nlive, isn't it?♪"
                             ]
                         },
                         {
@@ -38622,21 +38531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "給油なら車に乗った状態で給油ラインまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レッカーなら横に居る社長までどうぞ！"
+                                "Welcome! If you're here for fuel, please stay in your car and proceed\nto the fueling line. If you need a tow, please go see the president\nstanding over there!"
                             ]
                         },
                         {
@@ -38677,7 +38572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またお願いしま～す♪"
+                                "Thank you again～♪"
                             ]
                         },
                         {

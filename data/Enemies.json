@@ -49,7 +49,7 @@
             }
         ],
         "gold": 250,
-        "name": "注文書管理",
+        "name": "Order Form Management",
         "note": "",
         "params": [
             9,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 300,
-        "name": "書類管理",
+        "name": "Document Management",
         "note": "",
         "params": [
             10,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 350,
-        "name": "送付書類管理",
+        "name": "Dispatch Document Management",
         "note": "",
         "params": [
             11,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 400,
-        "name": "社内情報管理",
+        "name": "Internal Information Management",
         "note": "",
         "params": [
             12,
@@ -297,7 +297,7 @@
             }
         ],
         "gold": 450,
-        "name": "社内情報管理",
+        "name": "Internal Information Management",
         "note": "",
         "params": [
             13,
@@ -359,7 +359,7 @@
             }
         ],
         "gold": 500,
-        "name": "荷物受領管理",
+        "name": "Parcel Receiving Management",
         "note": "",
         "params": [
             14,
@@ -421,7 +421,7 @@
             }
         ],
         "gold": 550,
-        "name": "スケジュール管理",
+        "name": "Schedule Management",
         "note": "",
         "params": [
             15,
@@ -483,7 +483,7 @@
             }
         ],
         "gold": 600,
-        "name": "顧客管理",
+        "name": "Customer Management",
         "note": "",
         "params": [
             16,
@@ -669,7 +669,7 @@
             }
         ],
         "gold": 200,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             9,
@@ -731,7 +731,7 @@
             }
         ],
         "gold": 220,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             10,
@@ -793,7 +793,7 @@
             }
         ],
         "gold": 240,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             11,
@@ -855,7 +855,7 @@
             }
         ],
         "gold": 260,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             12,
@@ -917,7 +917,7 @@
             }
         ],
         "gold": 280,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             13,
@@ -979,7 +979,7 @@
             }
         ],
         "gold": 300,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             14,
@@ -1041,7 +1041,7 @@
             }
         ],
         "gold": 320,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             15,
@@ -1103,7 +1103,7 @@
             }
         ],
         "gold": 340,
-        "name": "残業処理",
+        "name": "Overtime Processing",
         "note": "",
         "params": [
             16,
@@ -1303,7 +1303,7 @@
             }
         ],
         "gold": 360,
-        "name": "小林くん",
+        "name": "Kobayashi-kun",
         "note": "",
         "params": [
             12,
@@ -1379,7 +1379,7 @@
             }
         ],
         "gold": 380,
-        "name": "斎藤くん",
+        "name": "Saito-kun",
         "note": "",
         "params": [
             13,
@@ -1462,7 +1462,7 @@
             }
         ],
         "gold": 340,
-        "name": "井上さん",
+        "name": "Inoue-san",
         "note": "",
         "params": [
             11,
@@ -1538,7 +1538,7 @@
             }
         ],
         "gold": 400,
-        "name": "高橋さん",
+        "name": "Takahashi-san",
         "note": "",
         "params": [
             19,
@@ -1621,7 +1621,7 @@
             }
         ],
         "gold": 440,
-        "name": "山田さん",
+        "name": "Yamada-san",
         "note": "",
         "params": [
             16,
@@ -1704,7 +1704,7 @@
             }
         ],
         "gold": 380,
-        "name": "肉山さん",
+        "name": "Nikuyama-san",
         "note": "",
         "params": [
             13,
@@ -1787,7 +1787,7 @@
             }
         ],
         "gold": 300,
-        "name": "細田さん",
+        "name": "Hosoda-san",
         "note": "",
         "params": [
             14,
@@ -1863,7 +1863,7 @@
             }
         ],
         "gold": 380,
-        "name": "大谷さん",
+        "name": "Otani-san",
         "note": "",
         "params": [
             18,
@@ -1932,7 +1932,7 @@
             }
         ],
         "gold": 200,
-        "name": "集荷くん",
+        "name": "Collection-kun",
         "note": "",
         "params": [
             9,
@@ -2015,7 +2015,7 @@
             }
         ],
         "gold": 360,
-        "name": "水森さん",
+        "name": "Mizumori-san",
         "note": "",
         "params": [
             12,
@@ -2091,7 +2091,7 @@
             }
         ],
         "gold": 460,
-        "name": "岸川さん",
+        "name": "Kishikawa-san",
         "note": "",
         "params": [
             17,
@@ -2663,7 +2663,7 @@
             }
         ],
         "gold": 0,
-        "name": "泥棒1",
+        "name": "Thief 1",
         "note": "",
         "params": [
             1,
@@ -2739,7 +2739,7 @@
             }
         ],
         "gold": 0,
-        "name": "泥棒2",
+        "name": "Thief 2",
         "note": "",
         "params": [
             1,

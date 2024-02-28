@@ -16,7 +16,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "変数テストアイテム",
+        "name": "Variable Test Item",
         "note": "<VCI変数番号:84>\n<VCI加算値:5>",
         "occasion": 0,
         "price": 0,
@@ -49,7 +49,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(若干)",
+        "name": "Beverage (Slight)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -82,7 +82,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(微)",
+        "name": "Beverage (Tiny)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -115,7 +115,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(小)",
+        "name": "Beverage (Small)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -148,7 +148,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(中)",
+        "name": "Beverage (Medium)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -181,7 +181,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(大)",
+        "name": "Beverage (Large)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -214,7 +214,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(最)",
+        "name": "Beverage (Maximum)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -247,7 +247,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "飲み物(全快)",
+        "name": "Beverage (Full Recovery)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -306,7 +306,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(若干)",
+        "name": "Food (Slight)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -339,7 +339,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(微)",
+        "name": "Food (Tiny)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -372,7 +372,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(小)",
+        "name": "Food (Small)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -405,7 +405,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(中)",
+        "name": "Food (Medium)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -438,7 +438,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(大)",
+        "name": "Food (Large)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -471,7 +471,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(最)",
+        "name": "Food (Maximum)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -504,7 +504,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "食べ物(全快)",
+        "name": "Food (Full Recovery)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -603,7 +603,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "喉の渇きを癒すために役立つ透き通った飲料だ…",
+        "description": "A clear beverage that helps quench thirst...",
         "effects": [
             {
                 "code": 44,
@@ -615,7 +615,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 1,
-        "name": "お水",
+        "name": "Water",
         "note": "",
         "occasion": 0,
         "price": 10,
@@ -636,7 +636,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "老若男女を選ばず幅広い年齢層に愛される飲料だ…",
+        "description": "A drink loved by a wide range of ages, not limited to any gender or\ngeneration...",
         "effects": [
             {
                 "code": 44,
@@ -648,7 +648,7 @@
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 1,
-        "name": "お茶",
+        "name": "Tea",
         "note": "",
         "occasion": 0,
         "price": 20,
@@ -669,7 +669,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "人生のほろ苦さを感じられる大人の飲料だ…",
+        "description": "An adult beverage that lets you taste the bittersweetness of life...",
         "effects": [
             {
                 "code": 44,
@@ -681,7 +681,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 1,
-        "name": "コーヒー",
+        "name": "Coffee",
         "note": "",
         "occasion": 0,
         "price": 30,
@@ -702,7 +702,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "マムシエキスが配合された滋養強壮に優れた飲料だ…",
+        "description": "A nourishing drink enhanced with viper extract, excellent for\nvitality...",
         "effects": [
             {
                 "code": 44,
@@ -714,7 +714,7 @@
         "hitType": 0,
         "iconIndex": 198,
         "itypeId": 1,
-        "name": "マムシドリンク",
+        "name": "Viper Drink",
         "note": "",
         "occasion": 2,
         "price": 300,
@@ -761,7 +761,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "商店で購入した冷めたお弁当だ…\nいつでも満腹感を得られる便利な携帯食だ",
+        "description": "A cold bento bought from a shop... A convenient portable meal that can\nsatisfy hunger at any time.",
         "effects": [
             {
                 "code": 44,
@@ -773,7 +773,7 @@
         "hitType": 0,
         "iconIndex": 235,
         "itypeId": 1,
-        "name": "冷めたお弁当",
+        "name": "Cold Bento",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -794,7 +794,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "電子レンジで温められたお弁当だ…\nいつでも満腹感を得られる便利な携帯食だ",
+        "description": "A bento warmed up in a microwave... A convenient portable meal that\ncan satisfy hunger at any time.",
         "effects": [
             {
                 "code": 44,
@@ -806,7 +806,7 @@
         "hitType": 0,
         "iconIndex": 236,
         "itypeId": 1,
-        "name": "温かいお弁当",
+        "name": "Warm Bento",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -827,7 +827,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "コンビニで販売されている安価な携帯食だ…",
+        "description": "An inexpensive portable meal sold at convenience stores...",
         "effects": [
             {
                 "code": 44,
@@ -839,7 +839,7 @@
         "hitType": 0,
         "iconIndex": 241,
         "itypeId": 1,
-        "name": "おにぎり",
+        "name": "Rice Ball",
         "note": "",
         "occasion": 0,
         "price": 20,
@@ -860,7 +860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "手を汚さずに食べられる便利な携帯食だ…",
+        "description": "A convenient portable meal that can be eaten without dirtying your\nhands...",
         "effects": [
             {
                 "code": 44,
@@ -872,7 +872,7 @@
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 1,
-        "name": "サンドイッチ",
+        "name": "Sandwich",
         "note": "",
         "occasion": 0,
         "price": 20,
@@ -919,7 +919,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "商店で購入した新鮮な食料品だ…\n持っていると自宅の炊飯器で食事を作ることができる",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home rice cooker.",
         "effects": [
             {
                 "code": 44,
@@ -931,7 +931,7 @@
         "hitType": 0,
         "iconIndex": 224,
         "itypeId": 1,
-        "name": "お米",
+        "name": "Rice",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -952,7 +952,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "商店で購入した新鮮な食料品だ…\n持っていると自宅の冷蔵庫で食事を作ることができる",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home refrigerator.",
         "effects": [
             {
                 "code": 44,
@@ -964,7 +964,7 @@
         "hitType": 0,
         "iconIndex": 225,
         "itypeId": 1,
-        "name": "お味噌",
+        "name": "Miso",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -985,7 +985,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "商店で購入した新鮮な食料品だ…\n持っていると自宅のガスコンロで食事を作ることができる",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home gas stove.",
         "effects": [
             {
                 "code": 44,
@@ -997,7 +997,7 @@
         "hitType": 0,
         "iconIndex": 221,
         "itypeId": 1,
-        "name": "おかず",
+        "name": "Side Dish",
         "note": "",
         "occasion": 2,
         "price": 30,
@@ -1044,12 +1044,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "計量時に使える透明のカップだ…",
+        "description": "A transparent cup used for measuring...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 207,
         "itypeId": 1,
-        "name": "計量カップ",
+        "name": "Measuring Cup",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1096,7 +1096,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ほんのり青臭く酸味の強い新鮮なトマトだ…",
+        "description": "A fresh tomato with a strong sour taste and a hint of greenness...",
         "effects": [
             {
                 "code": 44,
@@ -1108,7 +1108,7 @@
         "hitType": 0,
         "iconIndex": 237,
         "itypeId": 1,
-        "name": "トマト",
+        "name": "Tomato",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -1129,12 +1129,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "猫岡駅から犬山駅区間の電車切符だ…",
+        "description": "A train ticket for the section between Neko-oka Station and Inu-yama\nStation...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 284,
         "itypeId": 1,
-        "name": "切符",
+        "name": "Ticket",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1181,12 +1181,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "桃音が会社で行った仕事に関しての報告書だ…\n会社の上司に渡す事で給料を貰う事ができる書類だ",
+        "description": "A report about the work Momone did at the company... It's a document\nthat can be handed to the company's boss to receive a salary.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
         "itypeId": 1,
-        "name": "仕事の成果",
+        "name": "Work Results",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1207,7 +1207,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘中に使用すると疲労を継続して減少させる事ができる\n会社の上司に渡しても給料を貰う事ができる書類だ",
+        "description": "A document that can be used during battle to continuously reduce\nfatigue and can also be handed to the company's boss to receive a\nsalary.",
         "effects": [
             {
                 "code": 21,
@@ -1219,7 +1219,7 @@
         "hitType": 0,
         "iconIndex": 293,
         "itypeId": 1,
-        "name": "仕事の資料",
+        "name": "Work Materials",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1344,7 +1344,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "男性の自慰行為に使用される刺激に満ち溢れた本だ…",
+        "description": "A book filled with stimulation used for male masturbation...",
         "effects": [
             {
                 "code": 44,
@@ -1356,7 +1356,7 @@
         "hitType": 0,
         "iconIndex": 287,
         "itypeId": 1,
-        "name": "アダルト雑誌",
+        "name": "Adult Magazine",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -1377,7 +1377,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "某即売会でのみで販売される希少価値の高い本だ…",
+        "description": "A book of high rarity value sold only at certain conventions...",
         "effects": [
             {
                 "code": 44,
@@ -1389,7 +1389,7 @@
         "hitType": 0,
         "iconIndex": 286,
         "itypeId": 1,
-        "name": "成人向け同人誌",
+        "name": "Adult Doujinshi",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1410,7 +1410,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "特異性の高い性癖を満たしてくれるマニア向けの本だ…",
+        "description": "A book for enthusiasts that satisfies highly specific fetishes...",
         "effects": [
             {
                 "code": 44,
@@ -1422,7 +1422,7 @@
         "hitType": 0,
         "iconIndex": 285,
         "itypeId": 1,
-        "name": "マニア雑誌",
+        "name": "Fan Magazine",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -1547,7 +1547,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "肌触りは良くないが汚れた物を拭くには十分な紙だ…\n使用するとお漏らしを取り除くことができる",
+        "description": "The paper isn't very soft, but it's sufficient for wiping dirty\nthings... Using it can remove accidents.",
         "effects": [
             {
                 "code": 44,
@@ -1559,7 +1559,7 @@
         "hitType": 0,
         "iconIndex": 295,
         "itypeId": 1,
-        "name": "ポケットティッシュ",
+        "name": "Pocket Tissue",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -1580,12 +1580,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "排泄時に使用できる肌触りのいい薄い紙だ…\n持っていると自宅のトイレで排泄する事ができる",
+        "description": "A thin paper with a nice texture that can be used during excretion...\nHaving it allows you to use the toilet at home for excretion.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 239,
         "itypeId": 1,
-        "name": "トイレットペーパー",
+        "name": "Toilet Paper",
         "note": "",
         "occasion": 3,
         "price": 8,
@@ -1632,12 +1632,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "汚れた物を洗う際に必要となる洗浄剤だ…\n持っていると自宅の洗濯機を使用する事ができる",
+        "description": "A cleaning agent necessary for washing dirty items... Having it allows\nyou to use the washing machine at home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
         "itypeId": 1,
-        "name": "洗剤",
+        "name": "Detergent",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1658,12 +1658,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "一日の疲れを癒す際に必要な衛生用品だ…\n持っていると自宅のお風呂を使用する事ができる",
+        "description": "An essential sanitary product for soothing the fatigue of the day...\nHaving it allows you to use the bath at home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
         "itypeId": 1,
-        "name": "石鹸",
+        "name": "Soap",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -1736,12 +1736,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "プラスチックゴミ削減を目的として作られたビニール袋だ…",
+        "description": "A plastic bag made with the purpose of reducing plastic waste...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 219,
         "itypeId": 1,
-        "name": "ビニール袋",
+        "name": "Plastic Bag",
         "note": "",
         "occasion": 3,
         "price": 5,
@@ -1762,12 +1762,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "桃音の糞便が入れられたビニール袋だ…",
+        "description": "A plastic bag containing Momone's feces...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "汚物入りビニール袋",
+        "name": "Plastic Bag with Waste",
         "note": "",
         "occasion": 3,
         "price": 500,
@@ -1814,7 +1814,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "恥民堂で販売されている妙な臭いのする怪しい壺だ…",
+        "description": "It's a suspicious pot with a strange smell being sold at the Shame\nHall...",
         "effects": [
             {
                 "code": 44,
@@ -1826,7 +1826,7 @@
         "hitType": 0,
         "iconIndex": 283,
         "itypeId": 1,
-        "name": "恥民堂の壺",
+        "name": "Shameful Pot",
         "note": "",
         "occasion": 2,
         "price": 60,
@@ -1873,12 +1873,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "飲み捨てられた空き缶だが貴重な資源だ…",
+        "description": "It's an empty can that's been discarded, but it's a valuable\nresource...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 281,
         "itypeId": 1,
-        "name": "空き缶",
+        "name": "Empty Can",
         "note": "",
         "occasion": 3,
         "price": 300,
@@ -1899,12 +1899,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "飲み捨てられた汚いペットボトルだが貴重な資源だ…",
+        "description": "It's a dirty, discarded PET bottle, but it's a valuable resource...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 282,
         "itypeId": 1,
-        "name": "ペットボトル",
+        "name": "Pet Bottle",
         "note": "",
         "occasion": 3,
         "price": 160,
@@ -1925,7 +1925,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "道端に生えていた雑草だ…",
+        "description": "It's a weed that was growing by the roadside...",
         "effects": [
             {
                 "code": 44,
@@ -1937,7 +1937,7 @@
         "hitType": 0,
         "iconIndex": 278,
         "itypeId": 1,
-        "name": "雑草",
+        "name": "Weed",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -1958,7 +1958,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "小さいが甘くて美味しい飴玉だ…",
+        "description": "It's a small but sweet and delicious candy...",
         "effects": [
             {
                 "code": 44,
@@ -1970,7 +1970,7 @@
         "hitType": 0,
         "iconIndex": 279,
         "itypeId": 1,
-        "name": "飴玉",
+        "name": "Candy",
         "note": "",
         "occasion": 2,
         "price": 20,
@@ -2017,12 +2017,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ガソリンがいっぱいに入った危険なタンクだ…",
+        "description": "It's a dangerous tank filled with gasoline...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 271,
         "itypeId": 1,
-        "name": "ガソリン携行缶",
+        "name": "Gasoline Canister",
         "note": "",
         "occasion": 3,
         "price": 1000,

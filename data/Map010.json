@@ -16037,7 +16037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指定されていた荷物はこれで全部ですよね？"
+                                "Is this all the specified luggage?"
                             ]
                         },
                         {
@@ -16080,14 +16080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございました♪"
+                                "Yes♪ Thank you very much♪"
                             ]
                         },
                         {
@@ -16133,14 +16126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料金の方はこれで足りますよね"
+                                "Um... is this enough for the fee?"
                             ]
                         },
                         {
@@ -16167,14 +16153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご利用ありがとうございました！"
+                                "Yes! Thank you for using our service!"
                             ]
                         },
                         {
@@ -16208,14 +16187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かありましたらまたお願いします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では！失礼します！"
+                                "If there's anything else, please ask us again! Well then! Excuse me!"
                             ]
                         },
                         {
@@ -16249,7 +16221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お世話になりました♪"
+                                "We appreciate your business♪"
                             ]
                         },
                         {
@@ -16806,7 +16778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…たっくんのお手伝いしなきゃ！"
+                                "Oops... I've got to help Takkun!"
                             ]
                         },
                         {
@@ -17623,7 +17595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よいしょっと…"
+                                "Heave-ho..."
                             ]
                         },
                         {
@@ -18104,14 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桃音…大丈夫かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重い荷物ばかりで疲れただろ？"
+                                "Momone... Are you okay? You must be tired from all the heavy luggage,\nright?"
                             ]
                         },
                         {
@@ -18145,7 +18110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -18179,14 +18144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん～…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとだけね♪"
+                                "Mmm... just a little bit♪"
                             ]
                         },
                         {
@@ -18220,7 +18178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無理しないで少し休んでなよ"
+                                "Don't overdo it, take a little break"
                             ]
                         },
                         {
@@ -18254,14 +18212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残りは一人で運べる小さい荷物と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "荷解きくらいだから♪"
+                                "The rest is just small luggage that I can carry alone and unpacking♪"
                             ]
                         },
                         {
@@ -18304,7 +18255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう♪"
+                                "Thank you♪"
                             ]
                         },
                         {
@@ -18338,14 +18289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど二人で作業した方が早いし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し頑張るよ♪"
+                                "But it's faster if we work together, so I'll keep going a bit longer♪"
                             ]
                         },
                         {
@@ -18379,7 +18323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうしてくれるなら助かるけど…"
+                                "If you're willing to do that, it would be a big help..."
                             ]
                         },
                         {
@@ -18413,14 +18357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ…室内に運んだダンボールの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "荷解きをお願いしてもいいかい？"
+                                "Then... could I ask you to unpack the boxes we brought inside?"
                             ]
                         },
                         {
@@ -18463,7 +18400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん♪任せて♪"
+                                "Sure♪ Leave it to me♪"
                             ]
                         },
                         {

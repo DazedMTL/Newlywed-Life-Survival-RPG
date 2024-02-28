@@ -22992,14 +22992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？猫岡方面から来たんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで遠かったでしょう…"
+                                "Eh? You came from the Neko-oka area? It must have been a long trip..."
                             ]
                         },
                         {
@@ -23017,14 +23010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何もありませんけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりして行ってください♪"
+                                "There's nothing much here, but please take your time and enjoy your\nstay♪"
                             ]
                         },
                         {
@@ -23846,14 +23832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このバス停を使えば一度行った事がある場所なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ移動できるかも…"
+                                "If I use this bus stop, I might be able to quickly travel to places\nI've been to before..."
                             ]
                         },
                         {
@@ -24234,14 +24213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…電車に乗るなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切符を買わなきゃだよね…"
+                                "Oh... If we're taking the train, we need to buy tickets, right..."
                             ]
                         },
                         {
@@ -25226,14 +25198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っと…電車に乗るなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切符を買わなきゃだよね…"
+                                "Oops... If I'm taking the train, I need to buy a ticket..."
                             ]
                         },
                         {
@@ -26257,8 +26222,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "切符を購入する(４８０円)",
-                                    "今はいい…"
+                                    "Buy a ticket (480 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -26399,7 +26364,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "電車に乗る必要は無いかなぁ…"
+                                "I guess there's no need to take the train..."
                             ]
                         },
                         {
@@ -26446,7 +26411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りないや…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -26544,14 +26509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -26559,8 +26517,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "切符を無くした…",
-                                    "今はいい…"
+                                    "I lost the ticket...",
+                                    "It's fine for now..."
                                 ],
                                 1,
                                 0,
@@ -26600,14 +26558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ？切符を無くしたって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そりゃまいったなぁ…"
+                                "Huh? You lost your ticket? That's quite a problem..."
                             ]
                         },
                         {
@@ -26625,14 +26576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "駅の外へは出してあげるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一応チェックさせてもらいますよ？"
+                                "I'll let you out of the station, but I need to check first, okay?"
                             ]
                         },
                         {
@@ -26685,7 +26629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "切符は持ってるし改札から出よう…"
+                                "I have my ticket, so let's go through the ticket gate..."
                             ]
                         },
                         {
@@ -26764,14 +26708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切符はなくさないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと持っててくださいね"
+                                "Please make sure to hold onto your ticket so you don't lose it."
                             ]
                         },
                         {
@@ -26908,8 +26845,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お水を購入する(１００円)",
-                                    "今はいい…"
+                                    "Buy water (100 yen)",
+                                    "Not now..."
                                 ],
                                 1,
                                 0,
@@ -27102,7 +27039,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "喉は渇いてないし今はいいかな…"
+                                "I'm not thirsty right now, so maybe later..."
                             ]
                         },
                         {
@@ -27571,7 +27508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺は簡易便所を管理してる者だ…"
+                                "I'm the one managing the portable toilets..."
                             ]
                         },
                         {
@@ -27589,14 +27526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛い女の子が利用した後の残り香を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嗅ぎたいだけの変態と勘違いされちゃ困るぜ…"
+                                "It'd be troublesome if I were mistaken for a pervert who just wants to\nsniff the lingering scent of cute girls who've used them..."
                             ]
                         },
                         {
@@ -29988,14 +29918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ？なんだろう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面に何か埋めてあるみたい…"
+                                "Hmm? What's this... It looks like something's buried in the ground..."
                             ]
                         },
                         {
@@ -30051,14 +29974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチな雑誌がこんなにいっぱい！！"
+                                "Wow! There are so many naughty magazines!!"
                             ]
                         },
                         {
@@ -30076,14 +29992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んもぉ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所に隠すなんて良くないんだぁ～"
+                                "Jeez... It's not good to hide them in a place like this~"
                             ]
                         },
                         {
@@ -30101,7 +30010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -30131,14 +30040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは見つけた私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "責任を持って処分しておかなきゃだよね…"
+                                "I guess I have to take responsibility for finding these and dispose of\nthem properly..."
                             ]
                         },
                         {
@@ -30224,14 +30126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ？なんだろう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面に何か埋めてあるみたい…"
+                                "Hmm? What's this... It looks like something's buried in the ground..."
                             ]
                         },
                         {
@@ -30287,14 +30182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチな雑誌がこんなにいっぱい！！"
+                                "Wow! There are so many erotic magazines!!"
                             ]
                         },
                         {
@@ -30312,14 +30200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んもぉ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所に隠すなんて良くないんだぁ～"
+                                "Jeez... It's not good to hide them in a place like this~"
                             ]
                         },
                         {
@@ -30337,7 +30218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -30367,14 +30248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは見つけた私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "責任を持って処分しておかなきゃだよね…"
+                                "I guess it's my responsibility to dispose of these since I found\nthem..."
                             ]
                         },
                         {
@@ -30460,14 +30334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ？なんだろう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面に何か埋めてあるみたい…"
+                                "Hmm? What's this... It looks like something's buried in the ground..."
                             ]
                         },
                         {
@@ -30523,14 +30390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチな雑誌がこんなにいっぱい！！"
+                                "Wow! There are so many naughty magazines!!"
                             ]
                         },
                         {
@@ -30548,14 +30408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んもぉ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所に隠すなんて良くないんだぁ～"
+                                "Jeez... It's not good to hide them in a place like this~"
                             ]
                         },
                         {
@@ -30573,7 +30426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -30603,14 +30456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは見つけた私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "責任を持って処分しておかなきゃだよね…"
+                                "I guess it's my responsibility to dispose of these since I found\nthem..."
                             ]
                         },
                         {
@@ -30696,14 +30542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ？なんだろう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面に何か埋めてあるみたい…"
+                                "Hmm? What's this... It looks like something is buried in the ground..."
                             ]
                         },
                         {
@@ -30759,14 +30598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチな雑誌がこんなにいっぱい！！"
+                                "Wow! There are so many naughty magazines!!"
                             ]
                         },
                         {
@@ -30784,14 +30616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んもぉ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所に隠すなんて良くないんだぁ～"
+                                "Jeez... It's not good to hide them in a place like this~"
                             ]
                         },
                         {
@@ -30809,7 +30634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -30839,14 +30664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは見つけた私が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "責任を持って処分しておかなきゃだよね…"
+                                "I guess it's my responsibility to dispose of these since I found\nthem..."
                             ]
                         },
                         {

@@ -14587,7 +14587,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "本日は月曜日！服を着てお仕事へ行きましょう！",
+                                    "destination": "Today is Monday! Let's get dressed and go to work!",
                                     "icon": "128"
                                 }
                             ]

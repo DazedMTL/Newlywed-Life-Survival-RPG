@@ -11148,7 +11148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doctor... What about my wife... Is there something wrong with her...?"
+                                "Doctor... What about my wife... Is there something wrong\nwith her...?"
                             ]
                         },
                         {
@@ -11584,7 +11584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well... There are individual differences, but some symptoms are\nexpected with pregnancy."
+                                "Well... There are individual differences, but some symptoms\nare expected with pregnancy."
                             ]
                         },
                         {
@@ -11629,7 +11629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The feeling of being unwell is likely temporary, so there's no need to\nworry too much♪"
+                                "The feeling of being unwell is likely temporary, so there's\nno need to worry too much♪"
                             ]
                         },
                         {
@@ -11647,7 +11647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But please refrain from overexerting yourself until you stabilize."
+                                "But please refrain from overexerting yourself until you\nstabilize."
                             ]
                         },
                         {
@@ -11708,7 +11708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We'll need to monitor your progress, so you'll have to come in for\nregular visits."
+                                "We'll need to monitor your progress, so you'll have to come\nin for regular visits."
                             ]
                         },
                         {
@@ -11738,7 +11738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll prescribe some medication to manage the symptoms, but try not to\nrely on it too much."
+                                "I'll prescribe some medication to manage the symptoms, but\ntry not to rely on it too much."
                             ]
                         },
                         {
@@ -11832,7 +11832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There will be various challenges, so please make sure your husband\nhelps out as well."
+                                "There will be various challenges, so please make sure your\nhusband helps out as well."
                             ]
                         },
                         {
@@ -13414,7 +13414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please keep it down in the hospital!! There are people here who aren't\nfeeling well!?"
+                                "Please keep it down in the hospital!! There are people here\nwho aren't feeling well!?"
                             ]
                         },
                         {

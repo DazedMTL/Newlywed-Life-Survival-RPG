@@ -49421,7 +49421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're the customer with the reservation, right? This way, please..."
+                                "You're the customer with the reservation, right? This way,\nplease..."
                             ]
                         },
                         {
@@ -50221,7 +50221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just kidding! Just kidding! You're always so serious, Senpai~"
+                                "Just kidding! Just kidding! You're always so serious,\nSenpai~"
                             ]
                         },
                         {
@@ -50806,7 +50806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We haven't started drinking yet. We were waiting for you, Senpai."
+                                "We haven't started drinking yet. We were waiting for you,\nSenpai."
                             ]
                         },
                         {
@@ -51057,7 +51057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're young! What are you saying? We can't get the party started with\nthat attitude! Come on! Drink, drink!"
+                                "You're young! What are you saying? We can't get the party\nstarted with that attitude! Come on! Drink, drink!"
                             ]
                         },
                         {
@@ -51177,7 +51177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Geez!! We've just started and you're already passed out from drinking~"
+                                "Geez!! We've just started and you're already passed out from\ndrinking~"
                             ]
                         },
                         {
@@ -51535,7 +51535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll tell the staff not to wake Senpai up, so you guys should head\nhome quickly..."
+                                "I'll tell the staff not to wake Senpai up, so you guys\nshould head home quickly..."
                             ]
                         },
                         {
@@ -54025,7 +54025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're looking for your companions, it seems they have already\nleft."
+                                "If you're looking for your companions, it seems they have\nalready left."
                             ]
                         },
                         {
@@ -54043,7 +54043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They said you were tired, so they told us to let you sleep..."
+                                "They said you were tired, so they told us to let you\nsleep..."
                             ]
                         },
                         {
@@ -54281,7 +54281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've already taken care of the bill, so please make sure you don't\nforget anything♪"
+                                "We've already taken care of the bill, so please make sure\nyou don't forget anything♪"
                             ]
                         },
                         {
@@ -54963,7 +54963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sigh... it's gotten so late... I have to apologize to Takkun..."
+                                "Sigh... it's gotten so late... I have to apologize to\nTakkun..."
                             ]
                         },
                         {
@@ -56803,7 +56803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's been a while since we stayed at a place like this, huh?♪"
+                                "It's been a while since we stayed at a place like this,\nhuh?♪"
                             ]
                         },
                         {
@@ -57383,7 +57383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's just the two of us, we've got to enjoy ourselves to the\nfullest♪"
+                                "If it's just the two of us, we've got to enjoy ourselves to\nthe fullest♪"
                             ]
                         },
                         {
@@ -57419,7 +57419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But... let's not make too much noise, we don't want to bother the\nother guests, okay?"
+                                "But... let's not make too much noise, we don't want to\nbother the other guests, okay?"
                             ]
                         },
                         {
@@ -58460,7 +58460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No... You hit your head on the chair while rolling and then just lay\nthere grinning without moving..."
+                                "No... You hit your head on the chair while rolling and then\njust lay there grinning without moving..."
                             ]
                         },
                         {
@@ -58559,7 +58559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're okay, that's good... But did you get hurt anywhere?"
+                                "If you're okay, that's good... But did you get hurt\nanywhere?"
                             ]
                         },
                         {
@@ -58616,7 +58616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My head hurts a bit... but it doesn't seem like I'm injured anywhere\nelse..."
+                                "My head hurts a bit... but it doesn't seem like I'm injured\nanywhere else..."
                             ]
                         },
                         {
@@ -58661,7 +58661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ow... If my head hurts, it means I really did hit it and passed out..."
+                                "Ow... If my head hurts, it means I really did hit it and\npassed out..."
                             ]
                         },
                         {
@@ -58724,7 +58724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... The spot you hit is a little red, but it doesn't look like it's\nbleeding..."
+                                "Hmm... The spot you hit is a little red, but it doesn't look\nlike it's bleeding..."
                             ]
                         },
                         {
@@ -58760,7 +58760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait here for a sec, I'll go ask someone from the inn for some ice"
+                                "Wait here for a sec, I'll go ask someone from the inn for\nsome ice"
                             ]
                         },
                         {
@@ -59043,7 +59043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"Why don't you come join me in the hot springs once the pain\nfrom the bump subsides?♪\""
+                                "Momone: \"Why don't you come join me in the hot springs once\nthe pain from the bump subsides?♪\""
                             ]
                         },
                         {
@@ -59200,7 +59200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"I think there's something we should do before heading to the\nhot springs~♪\""
+                                "Momone: \"I think there's something we should do before\nheading to the hot springs~♪\""
                             ]
                         },
                         {
@@ -59404,7 +59404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"The sash might be loose, but... look~... there's something\nelse we should be doing, right~?\""
+                                "Momone: \"The sash might be loose, but... look~... there's\nsomething else we should be doing, right~?\""
                             ]
                         },
                         {
@@ -59479,7 +59479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"If it's about dinner, it should be brought to us soon♪\""
+                                "Momone: \"If it's about dinner, it should be brought to us\nsoon♪\""
                             ]
                         },
                         {
@@ -60307,7 +60307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Akane: \"Uuu... I wanted you to enter me before going to the hot\nsprings...\""
+                                "Akane: \"Uuu... I wanted you to enter me before going to the\nhot springs...\""
                             ]
                         },
                         {
@@ -62393,7 +62393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... that's true... Maybe it's nice to do it in a place like this\nonce in a while♪"
+                                "Mmm... that's true... Maybe it's nice to do it in a place\nlike this once in a while♪"
                             ]
                         },
                         {
@@ -62725,7 +62725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This place is a bit away from where the other people are camping, so\nit's fine!"
+                                "This place is a bit away from where the other people are\ncamping, so it's fine!"
                             ]
                         },
                         {
@@ -62743,7 +62743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on♪ I'll take off my clothes too, so Takkun, you get undressed♪"
+                                "Come on♪ I'll take off my clothes too, so Takkun, you get\nundressed♪"
                             ]
                         },
                         {
@@ -64181,7 +64181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome♪ Dear customer... Are you interested in this swimsuit?"
+                                "Welcome♪ Dear customer... Are you interested in this\nswimsuit?"
                             ]
                         },
                         {
@@ -64248,7 +64248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The legendary swimsuit that stimulates men's sexual desires?!"
+                                "The legendary swimsuit that stimulates men's sexual\ndesires?!"
                             ]
                         },
                         {
@@ -64275,7 +64275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To be a woman and yet know of such things... You're no ordinary\nperson, are you..."
+                                "To be a woman and yet know of such things... You're no\nordinary person, are you..."
                             ]
                         },
                         {
@@ -64320,7 +64320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This swimsuit on display was once worn by an idol group that took the\nworld by storm..."
+                                "This swimsuit on display was once worn by an idol group that\ntook the world by storm..."
                             ]
                         },
                         {
@@ -64737,7 +64737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've heard the name, but I'm not really familiar with idol groups, so\nI don't actually know much about them..."
+                                "I've heard the name, but I'm not really familiar with idol\ngroups, so I don't actually know much about them..."
                             ]
                         },
                         {
@@ -65206,7 +65206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Customer... Could it be that you were tripping to a dreamland of\nfantasies while looking at this swimsuit?"
+                                "Customer... Could it be that you were tripping to a\ndreamland of fantasies while looking at this swimsuit?"
                             ]
                         },
                         {
@@ -65251,7 +65251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I didn't go! I didn't go! I... I... I didn't go to such a place!"
+                                "I didn't go! I didn't go! I... I... I didn't go to such a\nplace!"
                             ]
                         },
                         {
@@ -65410,7 +65410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As expected of you, customer!! I believed from the moment I saw you\nthat you would be the one to purchase this swimsuit!"
+                                "As expected of you, customer!! I believed from the moment I\nsaw you that you would be the one to purchase this swimsuit!"
                             ]
                         },
                         {
@@ -65428,7 +65428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They say clothes choose their wearer, and it's absolutely true!!"
+                                "They say clothes choose their wearer, and it's absolutely\ntrue!!"
                             ]
                         },
                         {
@@ -65446,7 +65446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To say this swimsuit exists for you would not be an exaggeration!"
+                                "To say this swimsuit exists for you would not be an\nexaggeration!"
                             ]
                         },
                         {
@@ -65476,7 +65476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come now! Please deepen your love with your husband with this\nswimsuit!"
+                                "Come now! Please deepen your love with your husband with\nthis swimsuit!"
                             ]
                         },
                         {
@@ -66426,7 +66426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone! You mustn't think about such naughty things all the time!"
+                                "Momone! You mustn't think about such naughty things all the\ntime!"
                             ]
                         },
                         {
@@ -67856,7 +67856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is... an adult toy for pleasure by inserting it into the crotch,\nisn't it..."
+                                "This is... an adult toy for pleasure by inserting it into\nthe crotch, isn't it..."
                             ]
                         },
                         {
@@ -67961,7 +67961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah! Could it be... I'm seeking an outlet for my pent-up sexual desires\nwith adult toys..."
+                                "Ah! Could it be... I'm seeking an outlet for my pent-up\nsexual desires with adult toys..."
                             ]
                         },
                         {
@@ -68463,7 +68463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If that's the case, please leave it to me♪ I'll explain it to you♪"
+                                "If that's the case, please leave it to me♪ I'll explain it\nto you♪"
                             ]
                         },
                         {
@@ -68665,7 +68665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh? Customer... that shining ring on your ring finger... could it be\nthat you're married?"
+                                "Oh? Customer... that shining ring on your ring finger...\ncould it be that you're married?"
                             ]
                         },
                         {
@@ -68719,7 +68719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Incredible! Having sold adult toys for 40 years, I, a professional\nadult goods meister, have overlooked such an important detail!!"
+                                "Incredible! Having sold adult toys for 40 years, I, a\nprofessional adult goods meister, have overlooked such an\nimportant detail!!"
                             ]
                         },
                         {
@@ -68764,7 +68764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I sincerely apologize for the discourtesy of not noticing that you are\na married customer!"
+                                "I sincerely apologize for the discourtesy of not noticing\nthat you are a married customer!"
                             ]
                         },
                         {
@@ -68809,7 +68809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The only reason a married customer like yourself would visit this kind\nof store and pick up an adult toy is one thing only!!"
+                                "The only reason a married customer like yourself would visit\nthis kind of store and pick up an adult toy is one thing\nonly!!"
                             ]
                         },
                         {
@@ -68827,7 +68827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The thrilling excitement that bubbled when you first met your husband\nhas faded, and the excitement settles each time you kiss..."
+                                "The thrilling excitement that bubbled when you first met\nyour husband has faded, and the excitement settles each time\nyou kiss..."
                             ]
                         },
                         {
@@ -68845,7 +68845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before you know it, the reality sets in that you've become more like\nair to each other than a loving couple..."
+                                "Before you know it, the reality sets in that you've become\nmore like air to each other than a loving couple..."
                             ]
                         },
                         {
@@ -68863,7 +68863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "While being indispensable may sound nice, it also means becoming an\nexistence so different that you can't even call each other the\nopposite sex!"
+                                "While being indispensable may sound nice, it also means\nbecoming an existence so different that you can't even call\neach other the opposite sex!"
                             ]
                         },
                         {
@@ -68935,7 +68935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah! My deepest apologies once again!! It was impolite of me to ask\nsuch a thing!!"
+                                "Ah! My deepest apologies once again!! It was impolite of me\nto ask such a thing!!"
                             ]
                         },
                         {
@@ -68953,7 +68953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Customer! It is precisely someone like you who should try out that\nproduct!"
+                                "Customer! It is precisely someone like you who should try\nout that product!"
                             ]
                         },
                         {
@@ -69025,7 +69025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please don't worry about such things!! A woman's dirtiness only adds\nto the value!"
+                                "Please don't worry about such things!! A woman's dirtiness\nonly adds to the value!"
                             ]
                         },
                         {
@@ -69043,7 +69043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And as a professional like myself, I can even hear the moans...\nahem... the silent voices from the toys!"
+                                "And as a professional like myself, I can even hear the\nmoans... ahem... the silent voices from the toys!"
                             ]
                         },
                         {
@@ -69070,7 +69070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The toy in your hands has been speaking to me since earlier..."
+                                "The toy in your hands has been speaking to me since\nearlier..."
                             ]
                         },
                         {
@@ -69088,7 +69088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to be used... I want to be thrust into a slippery, naughty\nflesh hole and get wet...!"
+                                "I want to be used... I want to be thrust into a slippery,\nnaughty flesh hole and get wet...!"
                             ]
                         },
                         {
@@ -69106,7 +69106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is... is that so...? I'm not sure if I should be happy about this or\nnot..."
+                                "Is... is that so...? I'm not sure if I should be happy about\nthis or not..."
                             ]
                         },
                         {
@@ -69124,7 +69124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There is no need for further explanation! Please, try it on in the\nfitting room over there!!"
+                                "There is no need for further explanation! Please, try it on\nin the fitting room over there!!"
                             ]
                         },
                         {
@@ -69958,7 +69958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've tried the naughty toy, I should really leave the fitting room\nnow!"
+                                "I've tried the naughty toy, I should really leave the\nfitting room now!"
                             ]
                         },
                         {
@@ -71117,7 +71117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahhn! What should I do! A newlywed like me buying such a naughty toy!"
+                                "Ahhn! What should I do! A newlywed like me buying such a\nnaughty toy!"
                             ]
                         },
                         {
@@ -71135,7 +71135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This makes it seem like I'm not satisfied with my sex life with\nTakkun!"
+                                "This makes it seem like I'm not satisfied with my sex life\nwith Takkun!"
                             ]
                         },
                         {
@@ -74477,7 +74477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even if they tell me to go back to my seat, it's awkward to stay in\nthe shop now..."
+                                "Even if they tell me to go back to my seat, it's awkward to\nstay in the shop now..."
                             ]
                         },
                         {
@@ -76447,7 +76447,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's fine at home, but doing that here would make us look like\nperverts..."
+                                "It's fine at home, but doing that here would make us look\nlike perverts..."
                             ]
                         },
                         {
@@ -76555,7 +76555,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'll be facing the other way, so go ahead and do it while I'm not\nlooking♪"
+                                "I'll be facing the other way, so go ahead and do it while\nI'm not looking♪"
                             ]
                         },
                         {
@@ -76647,7 +76647,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "But I thought about it... and since Tak-kun is here, I'll try to hold\nit in a bit longer..."
+                                "But I thought about it... and since Tak-kun is here, I'll\ntry to hold it in a bit longer..."
                             ]
                         },
                         {
@@ -77654,7 +77654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But all the stylish pieces are so expensive, I can't afford them..."
+                                "But all the stylish pieces are so expensive, I can't afford\nthem..."
                             ]
                         },
                         {
@@ -78448,7 +78448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This furniture was a popular diet machine in medieval Europe♪"
+                                "This furniture was a popular diet machine in medieval\nEurope♪"
                             ]
                         },
                         {
@@ -78493,7 +78493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Torture...? Oh no, not at all! That's a misinterpretation that has\nbeen distorted over time..."
+                                "Torture...? Oh no, not at all! That's a misinterpretation\nthat has been distorted over time..."
                             ]
                         },
                         {
@@ -78511,7 +78511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This wooden horse... the Marital Base was used exclusively among\nnoblewomen in medieval times for a secret game!"
+                                "This wooden horse... the Marital Base was used exclusively\namong noblewomen in medieval times for a secret game!"
                             ]
                         },
                         {
@@ -78592,7 +78592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This triangular wooden horse is a secret piece of furniture that was\ncherished but buried in history..."
+                                "This triangular wooden horse is a secret piece of furniture\nthat was cherished but buried in history..."
                             ]
                         },
                         {
@@ -78682,7 +78682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In modern times, it is considered an object to be displayed in the\nbedroom or living room and admired..."
+                                "In modern times, it is considered an object to be displayed\nin the bedroom or living room and admired..."
                             ]
                         },
                         {
@@ -78799,7 +78799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You straddle it naked, rubbing your genitals against the apex of the\nhorse, and when you reach climax from the stimulation..."
+                                "You straddle it naked, rubbing your genitals against the\napex of the horse, and when you reach climax from the\nstimulation..."
                             ]
                         },
                         {
@@ -78817,7 +78817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You release the white devil from your loins with a shout... That is\nthe correct way to use it!"
+                                "You release the white devil from your loins with a shout...\nThat is the correct way to use it!"
                             ]
                         },
                         {
@@ -78889,7 +78889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're a man, ejaculation... and for a woman... well, there's no\nneed to say more..."
+                                "If you're a man, ejaculation... and for a woman... well,\nthere's no need to say more..."
                             ]
                         },
                         {
@@ -78934,7 +78934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So that's how it was... such things were popular among noblewomen in\nthe Middle Ages..."
+                                "So that's how it was... such things were popular among\nnoblewomen in the Middle Ages..."
                             ]
                         },
                         {
@@ -78979,7 +78979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A triangular wooden horse for every household♪ With this, even your\nhusband will be delighted♪"
+                                "A triangular wooden horse for every household♪ With this,\neven your husband will be delighted♪"
                             ]
                         },
                         {
@@ -79036,7 +79036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What do you think? This product is the only one available! It's first\ncome, first served♪"
+                                "What do you think? This product is the only one available!\nIt's first come, first served♪"
                             ]
                         },
                         {
@@ -79355,7 +79355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This person is a noblewoman... no! A noble rot woman who satisfies her\nsexual desires with a triangular wooden horse!!"
+                                "This person is a noblewoman... no! A noble rot woman who\nsatisfies her sexual desires with a triangular wooden\nhorse!!"
                             ]
                         },
                         {
@@ -79373,7 +79373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... I'm not sure if I should be happy about this, but... I'll take\none for now..."
+                                "Mmm... I'm not sure if I should be happy about this, but...\nI'll take one for now..."
                             ]
                         },
                         {
@@ -79649,7 +79649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The product you've purchased will be delivered to your home, so please\nrest assured♪"
+                                "The product you've purchased will be delivered to your home,\nso please rest assured♪"
                             ]
                         },
                         {
@@ -79856,7 +79856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It wasn't cheap, but... ta... taking a chance on something like this\nis nice once in a while, right?♪"
+                                "It wasn't cheap, but... ta... taking a chance on something\nlike this is nice once in a while, right?♪"
                             ]
                         },
                         {

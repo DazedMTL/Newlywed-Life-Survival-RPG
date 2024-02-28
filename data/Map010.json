@@ -16187,7 +16187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If there's anything else, please ask us again! Well then! Excuse me!"
+                                "If there's anything else, please ask us again! Well then!\nExcuse me!"
                             ]
                         },
                         {
@@ -18076,7 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone... Are you okay? You must be tired from all the heavy luggage,\nright?"
+                                "Momone... Are you okay? You must be tired from all the heavy\nluggage, right?"
                             ]
                         },
                         {
@@ -18212,7 +18212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The rest is just small luggage that I can carry alone and unpacking♪"
+                                "The rest is just small luggage that I can carry alone and\nunpacking♪"
                             ]
                         },
                         {
@@ -18289,7 +18289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But it's faster if we work together, so I'll keep going a bit longer♪"
+                                "But it's faster if we work together, so I'll keep going a\nbit longer♪"
                             ]
                         },
                         {
@@ -18357,7 +18357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then... could I ask you to unpack the boxes we brought inside?"
+                                "Then... could I ask you to unpack the boxes we brought\ninside?"
                             ]
                         },
                         {

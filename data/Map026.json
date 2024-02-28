@@ -13527,7 +13527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But... it seems like it hasn't been opened for a while, so the air is\nstagnant and dusty..."
+                                "But... it seems like it hasn't been opened for a while, so\nthe air is stagnant and dusty..."
                             ]
                         },
                         {
@@ -13545,7 +13545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe if I open a window, the air will get a little better..."
+                                "Maybe if I open a window, the air will get a little\nbetter..."
                             ]
                         },
                         {

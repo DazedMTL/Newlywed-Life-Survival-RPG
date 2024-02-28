@@ -15361,7 +15361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"If there's something you want to eat, I'll make it for you♪\""
+                                "Momone: \"If there's something you want to eat, I'll make it\nfor you♪\""
                             ]
                         },
                         {
@@ -15388,7 +15388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momone: \"Of course, it has to be something other than me, okay?\""
+                                "Momone: \"Of course, it has to be something other than me,\nokay?\""
                             ]
                         },
                         {
@@ -15650,7 +15650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Takuya: \"You don't look okay at all! Let's go to the hospital right\nnow!\""
+                                "Takuya: \"You don't look okay at all! Let's go to the\nhospital right now!\""
                             ]
                         },
                         {

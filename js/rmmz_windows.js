@@ -229,6 +229,14 @@ Window_Base.prototype.drawTextEx = function (text, x, y, width) {
   return textState.outputWidth;
 };
 
+Window_Base.prototype.drawTextExItem = function (text, x, y, width) {
+  this.resetFontSettings();
+  this.contents.fontSize = 18
+  const textState = this.createTextState(text, x, y, width);
+  this.processAllText(textState);
+  return textState.outputWidth;
+};
+
 Window_Base.prototype.textSizeEx = function (text) {
   this.resetFontSettings();
   const textState = this.createTextState(text, 0, 0, 0);
@@ -1619,7 +1627,7 @@ Window_Help.prototype.setItem = function (item) {
 Window_Help.prototype.refresh = function () {
   const rect = this.baseTextRect();
   this.contents.clear();
-  this.drawTextEx(this._text, rect.x, rect.y, rect.width);
+  this.drawTextExItem(this._text, rect.x, rect.y, rect.width);
 };
 
 //-----------------------------------------------------------------------------

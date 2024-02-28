@@ -702,7 +702,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nourishing drink enhanced with viper extract, excellent for\nvitality...",
+        "description": "A nourishing drink enhanced with viper extract, excellent for vitality...",
         "effects": [
             {
                 "code": 44,
@@ -761,7 +761,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A cold bento bought from a shop... A convenient portable meal that can\nsatisfy hunger at any time.",
+        "description": "A cold bento bought from a shop... A convenient portable meal that can satisfy\nhunger at any time.",
         "effects": [
             {
                 "code": 44,
@@ -794,7 +794,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A bento warmed up in a microwave... A convenient portable meal that\ncan satisfy hunger at any time.",
+        "description": "A bento warmed up in a microwave... A convenient portable meal that can satisfy\nhunger at any time.",
         "effects": [
             {
                 "code": 44,
@@ -860,7 +860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A convenient portable meal that can be eaten without dirtying your\nhands...",
+        "description": "A convenient portable meal that can be eaten without dirtying your hands...",
         "effects": [
             {
                 "code": 44,
@@ -919,7 +919,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home rice cooker.",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook meals with\nyour home rice cooker.",
         "effects": [
             {
                 "code": 44,
@@ -952,7 +952,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home refrigerator.",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook meals with\nyour home refrigerator.",
         "effects": [
             {
                 "code": 44,
@@ -985,7 +985,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fresh groceries bought from a shop... Having them allows you to cook\nmeals with your home gas stove.",
+        "description": "Fresh groceries bought from a shop... Having them allows you to cook meals with\nyour home gas stove.",
         "effects": [
             {
                 "code": 44,
@@ -1129,7 +1129,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A train ticket for the section between Neko-oka Station and Inu-yama\nStation...",
+        "description": "A train ticket for the section between Neko-oka Station and Inu-yama Station...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 284,
@@ -1181,7 +1181,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A report about the work Momone did at the company... It's a document\nthat can be handed to the company's boss to receive a salary.",
+        "description": "A report about the work Momone did at the company... It's a document that can be\nhanded to the company's boss to receive a salary.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
@@ -1207,7 +1207,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A document that can be used during battle to continuously reduce\nfatigue and can also be handed to the company's boss to receive a\nsalary.",
+        "description": "A document that can be used during battle to continuously reduce fatigue and can\nalso be handed to the company's boss to receive a salary.",
         "effects": [
             {
                 "code": 21,
@@ -1547,7 +1547,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The paper isn't very soft, but it's sufficient for wiping dirty\nthings... Using it can remove accidents.",
+        "description": "The paper isn't very soft, but it's sufficient for wiping dirty things... Using\nit can remove accidents.",
         "effects": [
             {
                 "code": 44,
@@ -1580,7 +1580,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A thin paper with a nice texture that can be used during excretion...\nHaving it allows you to use the toilet at home for excretion.",
+        "description": "A thin paper with a nice texture that can be used during excretion... Having it\nallows you to use the toilet at home for excretion.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 239,
@@ -1632,7 +1632,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A cleaning agent necessary for washing dirty items... Having it allows\nyou to use the washing machine at home.",
+        "description": "A cleaning agent necessary for washing dirty items... Having it allows you to\nuse the washing machine at home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -1658,7 +1658,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An essential sanitary product for soothing the fatigue of the day...\nHaving it allows you to use the bath at home.",
+        "description": "An essential sanitary product for soothing the fatigue of the day... Having it\nallows you to use the bath at home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
@@ -1814,7 +1814,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a suspicious pot with a strange smell being sold at the Shame\nHall...",
+        "description": "It's a suspicious pot with a strange smell being sold at the Shame Hall...",
         "effects": [
             {
                 "code": 44,
@@ -1873,7 +1873,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's an empty can that's been discarded, but it's a valuable\nresource...",
+        "description": "It's an empty can that's been discarded, but it's a valuable resource...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 281,

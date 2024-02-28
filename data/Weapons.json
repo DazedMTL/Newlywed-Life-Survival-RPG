@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 0,
-        "description": "A company seal allowed only for those who are trusted... Reduces\nfatigue by 4% with each use.",
+        "description": "A company seal allowed only for those who are trusted... Reduces fatigue by 4%\nwith each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 0,
-        "description": "A company seal issued to capable workers... Reduces fatigue by 3% with\neach use.",
+        "description": "A company seal issued to capable workers... Reduces fatigue by 3% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 0,
-        "description": "A relatively new company seal, though it's somewhat dirty... Reduces\nfatigue by 2% with each use.",
+        "description": "A relatively new company seal, though it's somewhat dirty... Reduces fatigue by\n2% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 0,
-        "description": "A long-used company seal with dried ink... Reduces fatigue by 1% with\neach use.",
+        "description": "A long-used company seal with dried ink... Reduces fatigue by 1% with each use.",
         "etypeId": 1,
         "traits": [
             {
@@ -630,7 +630,7 @@
     {
         "id": 20,
         "animationId": 0,
-        "description": "A mat specialized in preventing stamping errors... Reduces fatigue by\n1% with each use.",
+        "description": "A mat specialized in preventing stamping errors... Reduces fatigue by 1% with\neach use.",
         "etypeId": 1,
         "traits": [
             {

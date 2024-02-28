@@ -513,7 +513,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Only if Takuya is accompanying, take separate actions from Takuya ※Can\nonly be used when acting with Takuya",
+        "description": "Only if Takuya is accompanying, take separate actions from Takuya ※Can only be\nused when acting with Takuya",
         "effects": [
             {
                 "code": 44,
@@ -702,7 +702,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Plan and work efficiently. Increases the number of actions at the cost\nof increased fatigue",
+        "description": "Plan and work efficiently. Increases the number of actions at the cost of\nincreased fatigue",
         "effects": [
             {
                 "code": 21,
@@ -740,7 +740,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consume a meal to engage in casual conversation with a friend,\nslightly reducing fatigue",
+        "description": "Consume a meal to engage in casual conversation with a friend, slightly reducing\nfatigue",
         "effects": [
             {
                 "code": 21,
@@ -778,7 +778,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consume a meal to engage in casual conversation with a friend,\nmoderately reducing fatigue",
+        "description": "Consume a meal to engage in casual conversation with a friend, moderately\nreducing fatigue",
         "effects": [
             {
                 "code": 21,
@@ -816,7 +816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consume a meal to engage in casual conversation with a friend, greatly\nreducing fatigue",
+        "description": "Consume a meal to engage in casual conversation with a friend, greatly reducing\nfatigue",
         "effects": [
             {
                 "code": 21,
@@ -1040,7 +1040,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A double-edged work skill that disregards social status and honor...\n※Can only be used during overtime",
+        "description": "A double-edged work skill that disregards social status and honor... ※Can only\nbe used during overtime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 129,
@@ -1071,7 +1071,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A double-edged work skill that disregards social status and honor...\n※Can only be used during overtime",
+        "description": "A double-edged work skill that disregards social status and honor... ※Can only\nbe used during overtime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 129,
@@ -1102,7 +1102,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A double-edged work skill that disregards social status and honor...\n※Can only be used during overtime",
+        "description": "A double-edged work skill that disregards social status and honor... ※Can only\nbe used during overtime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 129,
@@ -1350,7 +1350,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A double-edged work skill that disregards social status and honor...\n※Can only be used during overtime",
+        "description": "A double-edged work skill that disregards social status and honor... ※Can only\nbe used during overtime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 129,
@@ -1381,7 +1381,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A double-edged work skill that disregards social status and honor...\n※Can only be used during overtime",
+        "description": "A double-edged work skill that disregards social status and honor... ※Can only\nbe used during overtime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 129,

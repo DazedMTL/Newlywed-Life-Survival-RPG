@@ -18615,7 +18615,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "室内にあるダンボールを全て開けよう！",
+                                    "destination": "Let's open all the cardboard boxes in the room!",
                                     "icon": "128"
                                 }
                             ]

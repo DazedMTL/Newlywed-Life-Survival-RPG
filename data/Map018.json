@@ -19143,7 +19143,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "桃音の仕事机で仕事をしよう！",
+                                    "destination": "Let's work at Momone's desk!",
                                     "icon": "128"
                                 }
                             ]
@@ -20531,7 +20531,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "更衣室へ行って社内仕事着に着替えよう！",
+                                    "destination": "Let's go to the changing room and change into our work\nclothes!",
                                     "icon": "128"
                                 }
                             ]

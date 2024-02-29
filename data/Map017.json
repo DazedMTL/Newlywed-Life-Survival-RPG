@@ -16099,7 +16099,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "マンションを出て仕事へ行こう！",
+                                    "destination": "Let's leave the apartment and go to work!",
                                     "icon": "128"
                                 }
                             ]

@@ -6997,7 +6997,7 @@
                                 "SET_DESTINATION",
                                 "目標設定",
                                 {
-                                    "destination": "会社へ入ろう！",
+                                    "destination": "Let's go into the company!",
                                     "icon": "128"
                                 }
                             ]

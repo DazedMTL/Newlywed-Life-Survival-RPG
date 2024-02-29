@@ -2014,11 +2014,11 @@ function Window_Chronus() {
       function () {
         return Math.floor(this.getHour() / 12) === 0
           ? $gameSystem.isJapanese()
-            ? "午前"
-            : "Morning  "
-          : $gameSystem.isJapanese()
-          ? "午後"
-          : "Afternoon";
+            ? "AM "
+            : "AM "
+        : $gameSystem.isJapanese()
+          ? "PM "
+          : "PM ";
       }.bind(this)
     );
     format = format.replace(
